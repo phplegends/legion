@@ -1,0 +1,227 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "3659271c92e40e918b4f79f9efd1431d",
+    "content-hash": "f7383f2ebf4d379410d233a56c469665",
+    "packages": [
+        {
+            "name": "phplegends/collections",
+            "version": "1.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phplegends/collections.git",
+                "reference": "8c6d0024e06fcde3f416533ea8aa729e0d13e773"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phplegends/collections/zipball/8c6d0024e06fcde3f416533ea8aa729e0d13e773",
+                "reference": "8c6d0024e06fcde3f416533ea8aa729e0d13e773",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "victorjonsson/markdowndocs": "1.2.*"
+            },
+            "type": "collection",
+            "autoload": {
+                "psr-4": {
+                    "PHPLegends\\Collections\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Wallace de Souza Vizerra",
+                    "email": "wallacemaxters@gmail.com"
+                }
+            ],
+            "time": "2016-05-05 17:08:28"
+        },
+        {
+            "name": "phplegends/http",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phplegends/http-2.git",
+                "reference": "2e7cdce0c4fa7427f0fcbd836a22e2507570050c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phplegends/http-2/zipball/2e7cdce0c4fa7427f0fcbd836a22e2507570050c",
+                "reference": "2e7cdce0c4fa7427f0fcbd836a22e2507570050c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0",
+                "phplegends/collections": "1.*",
+                "phplegends/session": "dev-master"
+            },
+            "type": "package",
+            "autoload": {
+                "psr-4": {
+                    "PHPLegends\\Http\\": "src/"
+                },
+                "files": [
+                    "src/functions.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Wallace de Souza Vizerra",
+                    "email": "wallacemaxters@gmail.com"
+                }
+            ],
+            "description": "A PHP package for HTTP",
+            "time": "2016-07-25 16:48:14"
+        },
+        {
+            "name": "phplegends/routes",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phplegends/routes.git",
+                "reference": "7b571362c4d9b190ad51bc5e8c4d96bfd03f31ec"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phplegends/routes/zipball/7b571362c4d9b190ad51bc5e8c4d96bfd03f31ec",
+                "reference": "7b571362c4d9b190ad51bc5e8c4d96bfd03f31ec",
+                "shasum": ""
+            },
+            "require": {
+                "phplegends/collections": "1.*"
+            },
+            "type": "package",
+            "autoload": {
+                "psr-4": {
+                    "PHPLegends\\Routes\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Wallace de Souza",
+                    "email": "wallacemaxters@gmail.com"
+                }
+            ],
+            "description": "A package for work with routes in php",
+            "keywords": [
+                "router",
+                "routes",
+                "routing"
+            ],
+            "time": "2016-07-20 00:46:24"
+        },
+        {
+            "name": "phplegends/session",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phplegends/session.git",
+                "reference": "6fb59396ef43cc5d13d2f43e1b71a4553e79337f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phplegends/session/zipball/6fb59396ef43cc5d13d2f43e1b71a4553e79337f",
+                "reference": "6fb59396ef43cc5d13d2f43e1b71a4553e79337f",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0",
+                "phplegends/collections": "1.*"
+            },
+            "type": "package",
+            "autoload": {
+                "psr-4": {
+                    "PHPLegends\\Session\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Wallace de Souza Vizerra",
+                    "email": "wallacemaxters@gmail.com"
+                }
+            ],
+            "description": "A PHP Library for work with session",
+            "time": "2016-07-24 23:40:37"
+        },
+        {
+            "name": "phplegends/view",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phplegends/view.git",
+                "reference": "1941dbf6233b0c91912bdf2d94dfe8f5e8dc9115"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phplegends/view/zipball/1941dbf6233b0c91912bdf2d94dfe8f5e8dc9115",
+                "reference": "1941dbf6233b0c91912bdf2d94dfe8f5e8dc9115",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0",
+                "phplegends/collections": "1.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "PHPLegends\\View\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Wallace de Souza Vizerra",
+                    "email": "wallacemaxters@gmail.com",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Guilherme Nascimento",
+                    "email": "guilherme@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Simple Template/Views for php",
+            "keywords": [
+                "template",
+                "view"
+            ],
+            "time": "2016-06-08 17:00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "phplegends/http": 20,
+        "phplegends/routes": 20,
+        "phplegends/view": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
