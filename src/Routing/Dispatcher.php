@@ -8,7 +8,6 @@ use PHPLegends\Http\Response;
 use PHPLegends\Routes\Router;
 use PHPLegends\Http\JsonResponse;
 use PHPLegends\Routes\Dispatchable;
-use Light\Controller\Filterable;
 use PHPLegends\Http\Exceptions\HttpException;
 use PHPLegends\Http\ResponseHeaderCollection;
 use PHPLegends\Routes\Traits\DispatcherTrait;
@@ -17,20 +16,23 @@ use PHPLegends\Http\Exceptions\MethodNotAllowedException;
 use PHPLegends\Routes\Exceptions\NotFoundException as RouteNotFoundException;
 
 /**
- * Dispatcher for Maxters Framework application
- * This dispatcher is costume of this framework and implement Dispatchable for PHPLegends\Route packages
  *
  * @author Wallace de Souza Vizerra <wallacemaxters@gmail.com>
- *
+ * 
  * */
 class Dispatcher implements Dispatchable
 {
 
     use DispatcherTrait;
 
+    protected $request;
+
+    protected $responseFactory;
+
     public function __construct(Request $request, ResponseFactory $responseFactory)
     {
         $this->request = $request;
+
         $this->responseFactory = $responseFactory;
     }
 
@@ -46,8 +48,8 @@ class Dispatcher implements Dispatchable
         $this->request->setCurrentRoute($route);
 
         if (($filter = $this->callRouteFilters($router, $route)) !== null) {
-
-            return $this->resolveResponseValue($filter);
+            
+            return $this->prepareReponse($filter);
         }
 
         $this->callRouteAction($route)->send(true);
@@ -70,7 +72,7 @@ class Dispatcher implements Dispatchable
 
             $callable[0]->beforeResponse($this->request);
 
-            $response = $this->resolveResponseValue(
+            $response = $this->prepareReponse(
                 call_user_func_array($callable, $parameters)
             );
 
@@ -79,7 +81,7 @@ class Dispatcher implements Dispatchable
             return $response;
         }
 
-        return $this->resolveResponseValue(
+        return $this->prepareReponse(
             call_user_func_array($callable, $parameters)
         );
     }
@@ -99,8 +101,11 @@ class Dispatcher implements Dispatchable
                 $this->responseFactory
             );
 
-            if ($result !== null) return $result;
-        }   
+            if ($result !== null) {
+
+                return $result;
+            }
+        }
     }
 
     /**
@@ -155,57 +160,17 @@ class Dispatcher implements Dispatchable
 
     /**
      * 
-     * @param mixed $response
-     * @param int $defaultCode
-     * @return \PHPLegends\Http\Response
+     * @param PHPLegends\Http\Response $response
      * */
-    protected function resolveResponseValue($response, $defaultCode = 200)
-    {
-        if ($this->shouldBeResponse($response)) {
+    protected function prepareReponse(Response $response)
+    {        
 
-            $response = new Response($response, $defaultCode);
+        if ($session = $this->request->getSession()) {
 
-        } elseif ($this->shouldBeJsonResponse($response)) {
-
-            $response = new JsonResponse($response, $defaultCode);
-
-        } elseif (! $response instanceof Response) {
-
-            $message = sprintf(
-                'Unprocessable response of type "%s"',
-                is_object($response) ? get_class($response) : gettype($response)
-            );
-
-            throw new \RunTimeException($message);
+            $response->withSession($session);
         }
 
-        ($session = $this->request->getSession()) && $response->withSession($session);
-
         return $response;
-    }
-    
-    /**
-     * 
-     * @param mixed $candidate
-     * @return boolean
-     * */
-    protected function shouldBeJsonResponse($candidate)
-    {
-        return is_array($candidate)
-                || $candidate instanceof \JsonSerializable
-                || $candidate instanceof \ArrayObject
-                || $candidate instanceof \stdClass;
-    }
-
-    /**
-     * Detect if response should be PHPLegends\Http\Response instance
-     *
-     * @param mixed $candidate
-     * @return boolean
-     * */
-    protected function shouldBeResponse($candidate)
-    {
-        return is_string($candidate) || $candidate instanceof \PHPLegends\View\View;
     }
 }
 

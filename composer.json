@@ -14,5 +14,10 @@
         "phplegends/http" : "dev-master",
         "phplegends/routes" : "dev-master",
         "phplegends/view"   : "dev-master"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Light\\" : "src/"
+        }
     }
 }

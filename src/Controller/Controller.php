@@ -9,10 +9,5 @@ class Controller implements Filterable
 {
     public function beforeResponse(Request $request) {}
 
-    /**
-     * 
-     * Null pattern for Filterable
-     * 
-     * */
     public function afterResponse(Request $request, Response $response) {}
 }
