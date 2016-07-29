@@ -4,558 +4,542 @@
 		"selected_items":
 		[
 			[
-				"respnse",
-				"responseFactory〔variable〕"
+				"array_Wl",
+				"array_walk_recursive〔function〕"
 			],
 			[
-				"response",
-				"$responseFactory〔variable〕"
+				"array_path_",
+				"array_path_get"
 			],
 			[
-				"rs",
-				"responseFactory"
+				"array_replace",
+				"array_replace_recursive〔function〕"
 			],
 			[
-				"resposne",
-				"responseFactory"
+				"Une",
+				"UnderflowException〔class〕"
 			],
 			[
-				"req",
-				"request"
+				"nex",
+				"next_page_url"
 			],
 			[
-				"Contr",
-				"Controller"
+				"start",
+				"startUrl"
 			],
 			[
-				"Cont",
-				"Controller"
+				"next",
+				"nextUrl"
 			],
 			[
-				"array_un",
-				"array_unshift〔function〕"
+				"pro",
+				"prototype"
+			],
+			[
+				"Aluno",
+				"AlunosController	(controllers.js)"
+			],
+			[
+				"template",
+				"templateUrl"
+			],
+			[
+				"Respon",
+				"Response	Response"
+			],
+			[
+				"debug",
+				"debug_backtrace〔function〕"
+			],
+			[
+				"va",
+				"var_dump"
 			],
 			[
 				"sess",
-				"$session〔variable〕"
+				"session.lifetime"
+			],
+			[
+				"Response",
+				"ResponseFactory	ResponseFactory"
 			],
 			[
 				"View",
 				"ViewFactory"
 			],
 			[
-				"respon",
-				"response"
+				"getH",
+				"getHeaders()	mixed"
 			],
 			[
-				"a",
-				"addAll〔function〕"
+				"ge",
+				"getHeaders()	mixed"
 			],
 			[
-				"Controlle",
-				"Controllers"
-			],
-			[
-				"b",
-				"bindTo"
-			],
-			[
-				"sco",
-				"$scope〔argument〕"
-			],
-			[
-				"con",
-				"$connectionData〔variable〕"
-			],
-			[
-				"confi",
-				"$configFile〔variable〕"
-			],
-			[
-				"conf",
-				"$configFile〔variable〕"
-			],
-			[
-				"config",
-				"configFile"
-			],
-			[
-				"U",
-				"User〔namespace〕"
-			],
-			[
-				"form",
-				"form-control"
-			],
-			[
-				"User",
-				"UserQuery〔namespace〕"
-			],
-			[
-				"get",
-				"getCollection〔function〕"
-			],
-			[
-				"rout",
-				"$router〔variable〕"
-			],
-			[
-				"g",
-				"getCollection〔function〕"
-			],
-			[
-				"createRes",
-				"createViewResponse〔function〕"
-			],
-			[
-				"Htt",
-				"HttpExceptionInterface"
-			],
-			[
-				"Http",
-				"PHPLegends\\Http\\Exceptions\\HttpException〔class〕"
-			],
-			[
-				"Response",
-				"PHPLegends\\Http\\Response〔class〕"
-			],
-			[
-				"html",
-				"htmlentities〔function〕"
-			],
-			[
-				"call_use",
-				"call_user_func〔function〕"
-			],
-			[
-				"Pimple",
+				"Pim",
 				"PimpleContainer"
 			],
 			[
-				"Max",
-				"Maxters\\Container〔class〕"
+				"include",
+				"include_once"
 			],
 			[
-				"regis",
-				"registryRouter〔function〕"
-			],
-			[
-				"reg",
-				"registryConfiguration($app)	mixed"
-			],
-			[
-				"Server",
-				"ServiceProviderInterface〔namespace〕"
-			],
-			[
-				"Ro",
-				"Router〔class〕"
-			],
-			[
-				"A",
-				"APP_PATH($app)	mixed"
-			],
-			[
-				"In",
-				"InvalidArgumentException"
-			],
-			[
-				"func_get",
-				"func_get_args〔function〕"
+				"view",
+				"viewFactory〔variable〕"
 			],
 			[
 				"call_user",
-				"call_user_func_array〔function〕"
+				"call_user_func〔function〕"
 			],
 			[
-				"file",
-				"$filename〔variable〕"
-			],
-			[
-				"Exte",
-				"extension〔variable〕"
-			],
-			[
-				"eten",
-				"extension"
-			],
-			[
-				"append",
-				"appendContent"
-			],
-			[
-				"sec",
-				"sections"
-			],
-			[
-				"getSe",
-				"getSectionCollection"
-			],
-			[
-				"exten",
-				"$extension〔variable〕"
-			],
-			[
-				"name",
-				"namespace〔keyword〕"
-			],
-			[
-				"__",
-				"__con	construct"
-			],
-			[
-				"PHP_VE",
-				"PHP_MAJOR_VERSION〔constant〕"
-			],
-			[
-				"PHP_V",
-				"PHP_VERSION_ID〔constant〕"
-			],
-			[
-				"M",
-				"ModelNotFoundException〔class〕"
-			],
-			[
-				"mi",
-				"modify"
-			],
-			[
-				"status_",
-				"status_atual_id"
-			],
-			[
-				"order",
-				"orderByRaw"
-			],
-			[
-				"PHP",
-				"PHPLegends\\TimerLaravel\\Time"
-			],
-			[
-				"FILTER_VAL",
-				"FILTER_VALIDATE_EMAIL〔constant〕"
-			],
-			[
-				"file_va",
-				"filter_var〔function〕"
-			],
-			[
-				"callbac",
-				"callbackMail"
-			],
-			[
-				"noti",
-				"notificarSeHouverAtraso"
-			],
-			[
-				"call",
-				"callbackMail"
-			],
-			[
-				"no",
-				"notificarSeHouverAtraso〔function〕"
-			],
-			[
-				"notifica",
-				"notificarSeHouverAtraso"
-			],
-			[
-				"min-",
-				"min-height"
-			],
-			[
-				"var",
-				"var_dump"
-			],
-			[
-				"notifi",
-				"notificarSeHouverAtraso〔function〕"
-			],
-			[
-				"Remessa",
-				"RemessaStatus"
-			],
-			[
-				"callback",
-				"$callbackCase〔variable〕"
-			],
-			[
-				"get_class",
+				"geT_class",
 				"get_class_methods"
 			],
 			[
-				"remessa",
-				"remessa_id"
+				"Test",
+				"TestCase	(TestCase.php)"
 			],
 			[
-				"S",
-				"Support〔namespace〕"
+				"Redire",
+				"RedirectResponse"
 			],
 			[
-				"pagina",
-				"$paginator〔variable〕"
+				"getHost",
+				"getHostWithScheme	(Uri.php)"
 			],
 			[
-				"fala",
-				"falha_webservice"
+				"R",
+				"Routes"
 			],
 			[
-				"reje",
-				"rejeitadas"
+				"iterator_",
+				"iterator_to_array〔function〕"
 			],
 			[
-				"motivo",
-				"motivosReprovacao"
+				"erro",
+				"$errorLines〔variable〕"
 			],
 			[
-				"soli",
-				"solicitacoes"
+				"_debug",
+				"_debug.index	(index.js)"
 			],
 			[
-				"sol",
-				"solicitacao_id"
+				"Rol",
+				"role_id"
 			],
 			[
-				"deta",
-				"detalhes"
+				"user",
+				"user_id"
 			],
 			[
-				"dado",
-				"dadoComplementar"
+				"auto",
+				"autoIncrement"
 			],
 			[
-				"verificar",
-				"verificarProtocoloAberto"
+				"col",
+				"column"
 			],
 			[
-				"detalhes",
-				"detalhes_tecnicos"
+				"Res",
+				"ResponseHeaderCollection"
 			],
 			[
-				"solic",
-				"solicitacao_id"
+				"uplo",
+				"$uploadedFiles〔variable〕"
 			],
 			[
-				"solicita",
-				"solicitacao_id"
+				"uploaded",
+				"uploadedFiles"
 			],
 			[
 				"create",
-				"createGuzzlePool"
+				"createFromArray"
 			],
 			[
-				"Solici",
-				"Solicitacao〔class〕"
+				"get",
+				"getUploadedFiles()	mixed"
 			],
 			[
-				"func_get_a",
+				"re",
+				"Response	Response"
+			],
+			[
+				"rou",
+				"$router〔variable〕"
+			],
+			[
+				"error",
+				"$error〔variable〕"
+			],
+			[
+				"error_",
+				"error_get_last〔function〕"
+			],
+			[
+				"h",
+				"headers"
+			],
+			[
+				"dispa",
+				"dispatcher"
+			],
+			[
+				"Http",
+				"HttpException"
+			],
+			[
+				"process",
+				"processRouteAction"
+			],
+			[
+				"PHP_VE",
+				"PHP_VERSION〔constant〕"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"http_",
+				"http_response_code〔function〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"call_us",
+				"call_user_func〔function〕"
+			],
+			[
+				"find",
+				"findByUri〔function〕"
+			],
+			[
+				"tw",
+				"$two〔variable〕"
+			],
+			[
+				"Asser",
+				"assertEquals〔function〕"
+			],
+			[
+				"Route",
+				"RouteTest"
+			],
+			[
+				"call_user_",
+				"call_user_func_array〔function〕"
+			],
+			[
+				"_",
+				"_routeMethod"
+			],
+			[
+				"Rou",
+				"RouterTest"
+			],
+			[
+				"PHPUni",
+				"PHPUnit_Framework_Exception〔class〕"
+			],
+			[
+				"func_ge",
 				"func_get_args"
 			],
 			[
-				"call_u",
-				"call_user_func_array〔function〕"
+				"assert",
+				"assertEquals"
 			],
 			[
-				"pro",
-				"$promisses〔variable〕"
+				"assertE",
+				"assertEquals〔function〕"
 			],
 			[
-				"prom",
-				"promisses"
+				"C",
+				"CollectionTest"
 			],
 			[
-				"opt",
-				"$options〔variable〕"
+				"Ro",
+				"Route〔class〕"
 			],
 			[
-				"webser",
-				"webservices"
+				"php",
+				"phplegends"
 			],
 			[
-				"post_",
-				"$post_string〔variable〕"
+				"array_key",
+				"array_key_exists"
 			],
 			[
-				"Solicitaca",
-				"SolicitacaoLog〔class〕"
+				"route",
+				"$routeName〔variable〕"
 			],
 			[
-				"usuario",
-				"usuario_id"
+				"p",
+				"placeholder	Attr"
 			],
 			[
-				"solici",
-				"solicitacao_id"
+				"mi",
+				"ministro"
+			],
+			[
+				"data",
+				"data_aula"
+			],
+			[
+				"esta",
+				"estado_id"
+			],
+			[
+				"ord",
+				"orderBy"
+			],
+			[
+				"nome",
+				"nomeAluno"
+			],
+			[
+				"Aul",
+				"AulasController@minhasAulas"
+			],
+			[
+				"mate",
+				"materias"
+			],
+			[
+				"igre",
+				"igreja_id"
 			],
 			[
 				"usuari",
-				"usuario_id"
+				"$usuario〔variable〕"
 			],
 			[
-				"finaliz",
-				"finalizado_webservice"
+				"fore",
+				"foreign"
 			],
 			[
-				"lista",
-				"listaCodigos"
+				"gradua",
+				"graduacao_id"
 			],
 			[
-				"dados",
-				"dadosWsAtualizacaoWS〔function〕"
+				"graduac",
+				"graduacoes_alunos"
 			],
 			[
-				"cancela",
-				"canceladas"
+				"ru",
+				"$rules〔variable〕"
 			],
 			[
-				"pd",
-				"pdf_protocolo"
+				"main",
+				"main_class"
 			],
 			[
-				"expo",
-				"exportarXLSPesquisa"
+				"Modulo",
+				"ModuloRequest〔namespace〕"
 			],
 			[
-				"en",
-				"environment"
+				"min",
+				"min-height"
 			],
 			[
-				"dire",
-				"$directory〔variable〕"
+				"MO",
+				"Modulo"
 			],
 			[
-				"full",
-				"fullpath_preview_image"
+				"con",
+				"$controller〔variable〕"
+			],
+			[
+				"a",
+				"$aluno〔variable〕"
+			],
+			[
+				"mo",
+				"modulos"
+			],
+			[
+				"scope",
+				"scopeGraduacao〔function〕"
+			],
+			[
+				"aluno",
+				"aluno_id"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"modulo",
+				"modulo_id"
+			],
+			[
+				"graduacao",
+				"graduacao_id"
+			],
+			[
+				"r",
+				"route〔function〕"
+			],
+			[
+				"H",
+				"Http〔namespace〕"
+			],
+			[
+				"aula",
+				"aula_id"
+			],
+			[
+				"pr",
+				"processBindings〔function〕"
+			],
+			[
+				"igreja",
+				"igreja_id"
 			],
 			[
 				"add",
-				"addNamespace〔function〕"
+				"addProvider〔function〕"
 			],
 			[
-				"crea",
-				"createManager〔function〕"
+				"date",
+				"dateTime〔variable〕"
 			],
 			[
-				"lo",
-				"loadAssets〔function〕"
+				"Mo",
+				"Modulo"
 			],
 			[
-				"load",
-				"loadConfig〔function〕"
+				"igrej",
+				"igrejas"
 			],
 			[
-				"wil",
-				"$wildcard〔variable〕"
+				"Aula",
+				"AulaRequest"
 			],
 			[
-				"w",
-				"$wildcard〔variable〕"
+				"Materia",
+				"MateriaRequest"
 			],
 			[
-				"use",
-				"user"
+				"materia",
+				"materia_id"
 			],
 			[
-				"getAsset",
-				"getAssetWildCard"
+				"ministro",
+				"ministro_id"
 			],
 			[
-				"nam",
-				"namespaces"
+				"geT_defin",
+				"get_defined_vars"
 			],
 			[
-				"base",
-				"baseUri"
+				"M",
+				"Modulo〔class〕"
 			],
 			[
-				"PAT",
-				"PATHINFO_EXTENSION〔constant〕"
+				"us",
+				"$usuario〔variable〕"
 			],
 			[
-				"ass",
-				"assetType"
+				"Create",
+				"CreateUsuarioRequest〔class〕"
 			],
 			[
-				"ma",
-				"match"
+				"Usuar",
+				"Usuario"
 			],
 			[
-				"collec",
-				"$collection〔variable〕"
+				"Usuario",
+				"UsuarioRequest"
 			],
 			[
-				"Coll",
-				"CollectionInterface"
+				"req",
+				"$request〔variable〕"
 			],
 			[
-				"Collection",
-				"CollectionInterface〔namespace〕"
+				"tho",
+				"throttle"
 			],
 			[
-				"css",
-				"$cssFiles〔variable〕"
+				"cre",
+				"$credentials〔variable〕"
 			],
 			[
-				"asset",
-				"$assetType〔variable〕"
+				"login",
+				"loginUsername"
 			],
 			[
-				"na",
-				"namespaces"
+				"class",
+				"class=\"alert"
 			],
 			[
-				"me",
-				"$method〔variable〕"
+				"s",
+				"style	Attr"
 			],
 			[
-				"Bad",
-				"BadMethodCallException"
+				"alun",
+				"$aluno_id〔variable〕"
 			],
 			[
-				"call_",
-				"call_user_func_array〔function〕"
+				"nive",
+				"niveis_id"
+			],
+			[
+				"niveis",
+				"niveis_id"
+			],
+			[
+				"read",
+				"readfile〔function〕"
+			],
+			[
+				"base_",
+				"base_path〔function〕"
+			],
+			[
+				"App",
+				"AppBundle\\Entity\\Usuarios"
+			],
+			[
+				"modu",
+				"modulo_id"
+			],
+			[
+				"igreaj",
+				"igreja_id"
+			],
+			[
+				"gethos",
+				"gethostname"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "composer.json",
-			"settings":
-			{
-				"buffer_size": 465,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "src/Controller/Controller.php",
 			"settings":
 			{
-				"buffer_size": 334,
+				"buffer_size": 265,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/Routing/Dispatcher.php",
+			"file": "example/index.php",
 			"settings":
 			{
-				"buffer_size": 5625,
+				"buffer_size": 350,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/Http/ResponseFactory.php",
+			"file": "src/Config/Config.php",
 			"settings":
 			{
-				"buffer_size": 1301,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/Http/Request.php",
-			"settings":
-			{
-				"buffer_size": 622,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -563,634 +547,335 @@
 	"build_system": "",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/love.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				],
+				[
+					"Packages/User/love.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Nodejs/Nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/YUI Compressor/YUI Compressor.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/YUI Compressor/YUI Compressor.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 354.0,
-		"last_filter": "php",
+		"height": 96.0,
+		"last_filter": "remove",
 		"selected_items":
 		[
 			[
-				"php",
-				"Set Syntax: PHP"
+				"remove",
+				"Package Control: Remove Package"
 			],
 			[
-				"git pull",
-				"Git: Pull"
-			],
-			[
-				"geneta",
-				"Generate Getter and Setter for ..."
-			],
-			[
-				"preview",
-				"Markdown Preview: Preview in Browser"
-			],
-			[
-				"phpinte",
-				"PHPIntel: Scan Project"
+				"forma",
+				"Format: Javascript"
 			],
 			[
 				"install",
 				"Package Control: Install Package"
 			],
 			[
-				"instal",
-				"Package Control: Install Package"
+				"reiden",
+				"Indentation: Reindent Lines"
 			],
 			[
-				"get",
-				"Generate Getter and Setter for ..."
+				"php",
+				"Set Syntax: PHP"
 			],
 			[
-				"getteer",
+				"find",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"hp",
+				"Markdown HTML Preview"
+			],
+			[
+				"g",
+				"Git: Pull"
+			],
+			[
+				"find ",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"gitp",
+				"Git: Pull"
+			],
+			[
+				"generate",
 				"PHP: Generate Getters and Setters"
-			],
-			[
-				"getter",
-				"Generate Getter and Setter for ..."
 			],
 			[
 				"insta",
 				"Package Control: Install Package"
 			],
 			[
-				"log",
-				"Set Syntax: Logfile"
+				"gitpu",
+				"Git: Pull"
 			],
 			[
-				"setter",
-				"PHP: Generate Getters and Setters"
+				"git pul",
+				"Git: Pull"
 			],
 			[
-				"remove ",
-				"Package Control: Remove Package"
+				"git p",
+				"Git: Pull"
 			],
 			[
-				"remove",
-				"Package Control: Remove Package"
+				"git pull",
+				"Git: Pull Current Branch"
 			],
 			[
-				"cleaer",
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"git chec",
+				"Git: Change Branch"
+			],
+			[
+				"git pu",
+				"Git: Pull Using Rebase"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"git  commi",
+				"Git: Commit history"
+			],
+			[
+				"in",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"git",
+				"Set Syntax: Graphviz (DOT)"
+			],
+			[
+				"linter",
 				"SublimeLinter: Clear Caches"
 			],
 			[
-				"trello",
-				"Trello: Create card with description"
-			],
-			[
-				"trell",
-				"Trello: Navigate"
-			],
-			[
-				"tod",
-				"Set Syntax: ToDone"
-			],
-			[
-				"todo",
-				"TodoReview: Open Files"
-			],
-			[
-				"pjp",
-				"Project: Edit Project"
+				"new fil",
+				"File: New View into File"
 			],
 			[
 				"javasc",
 				"Set Syntax: JavaScript"
 			],
 			[
-				"ter",
-				"Terminal: Open in project folder"
+				"java",
+				"Set Syntax: Java"
 			],
 			[
-				"terminal",
-				"Terminal: Open"
+				"js",
+				"Set Syntax: JSON"
 			],
 			[
-				"gitin",
-				"Git: Update Project Ignored Files"
+				"blade",
+				"Set Syntax: Laravel Blade"
 			],
 			[
-				"css3",
-				"Set Syntax: CSS3"
+				"Package Control: in",
+				"Package Control: Install Package"
 			],
 			[
-				"format",
-				"Format: Javascript"
+				"instal",
+				"SublimeCodeIntel: Disable Plugin"
 			],
 			[
-				"coffee li",
-				"Coffee: Lint"
+				"doten",
+				"Set Syntax: DotENV"
 			],
 			[
-				"coff",
-				"Set Syntax: CoffeeScript"
+				"jin",
+				"Set Syntax: HTML (Jinja2)"
 			],
 			[
-				"coffee",
-				"Set Syntax: CoffeeScript"
-			],
-			[
-				"form",
-				"Format: Javascript"
+				"twig",
+				"HTML: Wrap Selection With Tag"
 			],
 			[
 				"json",
 				"Set Syntax: JSON"
 			],
 			[
-				"reiden",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"sass",
-				"Set Syntax: Sass"
-			],
-			[
-				"scss",
-				"Set Syntax: CSS3"
-			],
-			[
-				"install g",
+				"insall",
 				"Package Control: Install Package"
 			],
 			[
-				"INSTALL",
-				"Package Control: Install Package"
-			],
-			[
-				"gulp",
-				"Set Syntax: Gulp results"
-			],
-			[
-				"gupl",
-				"Gulp: Show panel"
-			],
-			[
-				"sas",
-				"Set Syntax: Sass"
-			],
-			[
-				"blade",
-				"Set Syntax: PHP - Laravel Blade"
-			],
-			[
-				"html",
-				"Set Syntax: HTML"
-			],
-			[
-				"md",
+				"mark",
 				"Markdown Preview: Preview in Browser"
 			],
 			[
+				"mar",
+				"Markdown HTML Preview"
+			],
+			[
+				"mard",
+				"Markdown HTML Preview"
+			],
+			[
+				"convert spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"HTM",
+				"Set Syntax: HTML"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
 				"py",
-				"Set Syntax: Python"
+				"Set Syntax: PythonImproved"
 			],
 			[
-				"theme",
-				"SublimeLinter: Choose Gutter Theme"
+				"ini",
+				"Set Syntax: INI"
 			],
 			[
-				"js",
-				"Set Syntax: JavaScript"
-			],
-			[
-				"c++",
-				"Set Syntax: C++"
-			],
-			[
-				"reid",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"rei",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"xpath",
-				"XPath: Goto open tag"
-			],
-			[
-				"xml",
-				"Indent XML"
+				"love",
+				"Set Syntax: Lua (Love)"
 			],
 			[
 				"lua",
-				"Set Syntax: Lua"
-			],
-			[
-				"new ",
-				"Build: New Build System"
-			],
-			[
-				"inde",
-				"Indentation: Reindent Lines"
+				"Build With: LuaLove - Run"
 			],
 			[
 				"reide",
 				"Indentation: Reindent Lines"
 			],
 			[
-				"mini",
-				"Minify Javascript"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
-				"coffe",
-				"Set Syntax: CoffeeScript (Angular.js)"
-			],
-			[
-				"upper",
-				"Convert Case: Upper Case"
-			],
-			[
-				"jinj",
-				"Set Syntax: Jinja2"
-			],
-			[
-				"jsn",
-				"Set Syntax: JSON"
-			],
-			[
-				"yui",
-				"Build With: YUI Compressor"
-			],
-			[
-				"mi",
-				"Minify Javascript"
-			],
-			[
-				"min",
-				"Minify Javascript"
-			],
-			[
-				"hs",
-				"HTML: Encode Special Characters"
-			],
-			[
-				"sublimep",
-				"SublimeLinter: Previous Error"
-			],
-			[
-				"sublime",
-				"SublimeLinter: Enable Linting"
-			],
-			[
-				"sublim",
-				"SublimeLinter: Disable Linting"
-			],
-			[
-				"IDENT",
-				"Indent XML"
-			],
-			[
-				"css",
-				"Set Syntax: CSS3"
-			],
-			[
-				"lint",
-				"SublimeLinter: Next Error"
-			],
-			[
-				"jsli",
-				"Build With: JSLint"
-			],
-			[
-				"disable",
-				"SublimeLinter: Disable Linter"
-			],
-			[
-				"jslin",
-				"JSLint"
-			],
-			[
-				"sublime li",
-				"SublimeLinter: Next Error"
-			],
-			[
-				"sublime en",
-				"SublimeLinter: Enable Linter"
-			],
-			[
-				"sublimelinter",
-				"SublimeLinter: Clear Caches"
-			],
-			[
-				"",
+				"build",
 				"Build: New Build System"
 			],
 			[
-				"sql",
-				"Set Syntax: SQL"
+				"python",
+				"Set Syntax: PythonImproved"
 			],
 			[
-				"text",
-				"Set Syntax: Textile"
+				"intall",
+				"Package Control: Install Package"
 			],
 			[
-				"ht",
-				"Set Syntax: HTML"
+				"space",
+				"Indentation: Convert to Spaces"
 			],
 			[
-				"h",
-				"Set Syntax: HTML"
+				"reident",
+				"Indentation: Reindent Lines"
 			],
 			[
-				"bash",
-				"Set Syntax: Shell Script (Bash)"
-			],
-			[
-				"css3e",
-				"CSS3: Validate"
-			],
-			[
-				"pyth",
-				"Set Syntax: Python"
-			],
-			[
-				"htm",
-				"Set Syntax: HTML"
-			],
-			[
-				"ss3",
+				"css3",
 				"Set Syntax: CSS3"
 			],
 			[
-				"CSS3",
-				"Set Syntax: CSS3"
-			],
-			[
-				"undes",
-				"Set Syntax: HTML (Underscore)"
-			],
-			[
-				"gutter",
-				"SublimeLinter: Choose Gutter Theme"
-			],
-			[
-				"inja",
-				"Set Syntax: HTML (Jinja Templates)"
-			],
-			[
-				"jinja",
-				"Set Syntax: HTML (Jinja Templates)"
-			],
-			[
-				"linter",
-				"SublimeLinter: Next Error"
-			],
-			[
-				"user",
-				"Preferences: Key Bindings - User"
-			],
-			[
-				"run",
-				"Permute Lines: Unique"
-			],
-			[
-				"c3",
-				"CSS3: Validate"
-			],
-			[
-				"cs3",
-				"CSS3: Validate"
-			],
-			[
-				"javas",
-				"Set Syntax: JavaScript"
-			],
-			[
-				"color sche",
-				"SublimeLinter: Clear Color Scheme Folder"
-			],
-			[
-				"show all",
-				"SublimeLinter: Show All Errors"
-			],
-			[
-				"limit mode",
-				"SublimeLinter: Choose Lint Mode"
-			],
-			[
-				"linter disable",
-				"SublimeLinter: Disable Linter"
-			],
-			[
-				"xss3",
-				"Set Syntax: CSS3"
-			],
-			[
-				"android",
-				"Import Android Classes"
-			],
-			[
-				"java",
-				"Set Syntax: Java"
-			],
-			[
-				"ant",
-				"Set Syntax: Ant"
-			],
-			[
-				"jin",
-				"Set Syntax: HTML (Jinja Templates)"
-			],
-			[
-				"ini file",
-				"File: New View into File"
-			],
-			[
-				"pyt",
-				"Set Syntax: Python"
-			],
-			[
-				"jsl",
-				"JSLint"
-			],
-			[
-				"all",
-				"SublimeLinter: Show All Errors"
-			],
-			[
-				"javascr",
-				"Set Syntax: JavaScript"
-			],
-			[
-				"all err",
-				"SublimeLinter: Show All Errors"
-			],
-			[
-				"error",
-				"SublimeLinter: Show Errors on Save"
+				"brwo",
+				"Markdown Preview: Preview in Browser"
 			],
 			[
 				"install ",
 				"Package Control: Install Package"
 			],
 			[
-				"python",
-				"Set Syntax: Python"
-			],
-			[
-				"csslin",
-				"CSSLint: Run CSSLint"
-			],
-			[
-				"csslint",
-				"Preferences: CSSLint Settings – Default"
-			],
-			[
-				"build",
-				"Set Syntax: NAnt Build File"
-			],
-			[
-				"CS",
-				"Set Syntax: CSS3"
-			],
-			[
-				"instl",
-				"Package Control: Install Package"
+				"instan",
+				"Package Control: Install Local Dependency"
 			]
 		],
-		"width": 728.0
+		"width": 593.0
 	},
 	"console":
 	{
-		"height": 155.0,
+		"height": 139.0,
 		"history":
 		[
-			"b",
-			"b.strip('W')",
-			"b = \"Wallace\"",
-			"\"\\tx\".strip()",
-			"\"\\tx\"",
-			"\"asdasd asdasd asdasd as\".strip().__len__()",
-			"\"\".strip().__len__()",
-			"\"\".strip().__len__",
-			"\"\".strip().len",
-			"\"\".strip()",
-			"\" asdasdasdas \".strip()",
-			"\" asdasdasdas \".strip",
-			"\" asdasdasdas \".strio",
-			"print(dir(a))",
-			"dir(str)",
-			"str",
-			"dir(a)",
-			"trim",
-			"a.trim",
-			"a",
-			"a = \"Z\"",
-			"a = \"x\"",
-			"\"x\"·trim",
-			"''·trim",
-			"''",
-			"view.run_command('sort_lines_size')",
-			"view.run_command('sortLinesSize')",
-			"view.run_command('sortlinessize')",
-			"view.run_command('example')",
-			"filter(lambda x: x, x)",
-			"filter(lambda x: x)",
-			"filter(x, lambda x: x)",
-			"filter(x)",
-			"x.map",
-			"x",
-			"x.filter()",
-			"x = [1, 2, 3, 4, None]",
-			"view.run_command('example')",
-			"'v'.join(['1', '2', '3'])",
-			"'v'.join('x', ['1', '2', '3'])",
-			"''.join('x', ['1', '2', '3'])",
-			"','.join(['1', '2', '3'])",
-			"','.join([1, 2, 3])",
-			"','.join([1, 2,3])",
-			"dir([1, 2, 3])",
-			"[1, 2, 3].glue",
-			"[1, 2, 3].join",
-			"view.run_command('example')",
-			"view.replace()",
-			"view.replace(edit=1)",
-			"view.replace()",
-			"view.replace",
-			"print( dir(view.replace))",
-			"print( view.replace)",
-			"print( view.replace.__doc__)",
-			"print view.replace.__doc__",
-			"view.replace.__doc__",
-			"view.replace.__help__",
-			"view.__doc__",
-			"view.replace.__doc__",
-			"view.replace",
-			"view.replace.__doc__",
-			"view.replace",
-			"view.run_command('example')",
-			"a[0]",
-			"a[1]",
-			"a = (1, 2,)",
-			"view.run_command('example')",
-			"view.run_command('x')",
-			"view.run_command()",
-			"b",
-			"b.sort(key=lambda x: -len(x))",
-			"b",
-			"b.sort(key=lambda x:len(x))",
-			"b.sort(key=lambda x:len(x)",
-			"b = [\"teste\", \"x\", 'xxx']",
-			"b[\"teste\", \"x\", 'xxx']",
-			"b.sort(key=lambda x: len(str(x)))",
-			"b",
-			"b.sort(key=lambda x: len(str(x)))",
-			"b.sort(key=lambda x: len(str(x))",
-			"b.sort(key=lambda x: len(x))",
-			"b",
-			"bb",
-			"b.sort(key=lambda x: x - 1)",
-			"b",
-			"b.sort(key=lambda x: x < 5)",
-			"b",
-			"b.sort(key=lambda x: x > 5)",
-			"print(a)",
-			"a()",
-			"a",
-			"a= b.sort(key=lambda x: x > 5)",
-			"b",
-			"b.sort(key=lambda x: x > 5)",
-			"b",
-			"b.sort(key=lambda x: x-x)",
-			"b = [1, 2, 3, 5]",
-			"print(b)",
-			"b",
-			"b = [1, 2, 3, 4].sort(key=lambda x: -x)",
-			"[1, 2, 3, 4].sort(key=lambda x: -x)",
-			"[3, 2 3, 4].sort(key = lambda x:x - x)",
-			"[3, 2 3, 4].sort(key = lambda x : x - x)",
-			"[3, 2, 3, 4].sort(key= lambda x : x + x)",
-			"[3, 2, 3, 4].sort(key= lambda x:x)",
-			"[3, 2, 3, 4].sort(key= lambda -1)",
-			"[3, 2, 3, 4].sort(key=-1)",
-			"[3, 2, 3, 4].sort(key=None)",
-			"[3, 2, 3, 4].sort(key=Nome)",
-			"list.sort.__doc__",
-			"list.sort",
-			"list",
-			"[3, 2, 3, 4].sort(cmp=lambda x: x * 3 )",
-			"[3, 2, 3, 4].sort(key=lambda x: x * 3 )",
-			"[3, 2, 3, 4].sort(val=lambda x: x * 3 )",
-			"[3, 2, 3, 4].sort(key=lambda x: x )",
-			"[3, 2, 3, 4].sort(val=lambda x: x )",
-			"[3, 2, 3, 4].sort(value=lambda x: x )",
-			"[3, 2, 3, 4].sort(x=lambda x: x )",
-			"[3, 2, 3, 4].sort(key=lambda x: x > 0)",
-			"[3, 2, 3, 4].sort(key=lambda x: x)",
-			"[3, 2, 3, 4].sort(key=lambda x: 1)",
-			"[3, 2, 3, 4].sort(key=lambda x: -x)",
-			"[1, 2, 3, 4].sort(key=lambda x: -x)",
-			"[1, 2, 3, 4].sort(key=lambda x: x)",
-			"[1, 2, 3, 4].sort(key=lambda x: 1)",
-			"[1, 2, 3, 4].sort(key=lambda x: x - 1)"
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -1204,203 +889,158 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/packages/framework",
-		"/var/www/packages/framework/src",
-		"/var/www/packages/framework/src/Controller",
-		"/var/www/packages/framework/src/Http",
-		"/var/www/packages/framework/src/Routing"
+		"/var/www/packages/light-framework",
+		"/var/www/packages/light-framework/example",
+		"/var/www/packages/light-framework/src",
+		"/var/www/packages/light-framework/src/Config"
 	],
 	"file_history":
 	[
-		"/var/www/packages/framework/src/Routing/Dispatcher.php",
-		"/var/www/packages/framework/src/Controller/ControllerTrait.php",
-		"/var/www/packages/framework/src/Controller/Filterable.php",
-		"/var/www/packages/framework/src/Http/ResponseFactory.php",
-		"/var/www/packages/framework/vendor/phplegends/routes/src/Traits/DispatcherTrait.php",
-		"/var/www/packages/framework/src/Controller/Controller.php",
-		"/var/www/packages/framework/src/Routes/Dispatcher.php",
-		"/var/www/packages/framework/src/Session/SessionFactory.php",
-		"/var/www/packages/framework/vendor/phplegends/http/src/Request.php",
-		"/var/www/packages/framework/src/Http/Request.php",
-		"/var/www/packages/framework/vendor/phplegends/view/src/Factory.php",
-		"/var/www/packages/framework/vendor/phplegends/view/src/Finder.php",
-		"/var/www/packages/Maxters/tests/RouterTest.php",
-		"/var/www/packages/Maxters/app/routes.php",
-		"/var/www/packages/Maxters/app/Controllers/Controller.php",
-		"/var/www/packages/Maxters/app/Controllers/UsersController.php",
-		"/var/www/packages/Maxters/app/Exceptions/Handle.php",
-		"/var/www/packages/Maxters/app/routes.debug.php",
-		"/var/www/packages/Maxters/app/Dispatcher.php",
-		"/var/www/packages/Maxters/vendor/phplegends/http/src/Response.php",
-		"/var/www/packages/Maxters/app/Providers/HttpProvider.php",
-		"/var/www/packages/Maxters/vendor/phplegends/http/src/ResponseHeaderCollection.php",
-		"/var/www/packages/Maxters/vendor/phplegends/routes/src/Traits/DispatcherTrait.php",
-		"/var/www/packages/Maxters/vendor/phplegends/routes/src/Filter.php",
-		"/var/www/packages/Maxters/vendor/phplegends/routes/src/FilterCollection.php",
-		"/var/www/packages/Maxters/vendor/phplegends/routes/src/Router.php",
-		"/var/www/packages/Maxters/web/index.php",
-		"/var/www/packages/Maxters/resources/functions.php",
-		"/var/www/packages/Maxters/vendor/phplegends/http/src/Exceptions/NotFoundException.php",
-		"/var/www/packages/Maxters/vendor/phplegends/http/src/Exceptions/HttpException.php",
-		"/var/www/packages/Maxters/vendor/phplegends/routes/src/Collection.php",
-		"/var/www/packages/Maxters/vendor/phplegends/collections/src/Collection.php",
-		"/var/www/packages/Maxters/vendor/phplegends/http/src/Request.php",
-		"/var/www/packages/Maxters/web/js/users/index.js",
-		"/var/www/packages/Maxters/app/Controllers/Debug/DebugController.php",
-		"/var/www/packages/Maxters/vendor/phplegends/http/src/Exceptions/MethodNotAllowedException.php",
-		"/var/www/packages/Maxters/app/Providers/DatabaseProvider.php",
-		"/var/www/packages/Maxters/db/cli-config.php",
-		"/var/www/packages/Maxters/app/Providers/DoctrineDatabaseProvider.php",
-		"/var/www/packages/Maxters/app/Models/User.php",
-		"/var/www/packages/Maxters/vendor/phpunit/phpunit-mock-objects/tests/_fixture/AbstractTrait.php",
-		"/var/www/packages/Maxters/vendor/sebastian/comparator/tests/SplObjectStorageComparatorTest.php",
-		"/var/www/packages/Maxters/Maxters.sublime-project",
-		"/var/www/packages/Maxters/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php",
-		"/var/www/packages/Maxters/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php",
-		"/var/www/packages/collections/collections.sublime-project",
-		"/var/www/packages/Maxters/resources/database.php",
-		"/var/www/packages/Maxters/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Driver/SimplifiedXmlDriver.php",
-		"/var/www/packages/Maxters/resources/config.php",
-		"/var/www/packages/Maxters/boot/start.php",
-		"/var/www/packages/Maxters/db/config/../cli-config.php",
-		"/var/www/packages/Maxters/app/Providers/AppProvider.php",
-		"/var/www/packages/Maxters/db/config/xml/Maxters.Models.User.dcm.xml",
-		"/var/www/packages/Maxters/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Driver/XmlDriver.php",
-		"/var/www/packages/Maxters/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Setup.php",
-		"/var/www/packages/Maxters/db/config/xml/User.xml",
-		"/var/www/packages/epic/doctrine.php",
-		"/var/www/packages/Maxters/composer.json",
-		"/var/www/packages/epic/src/Model.php",
-		"/var/www/packages/epic/composer.json",
-		"/home/wallace/.config/sublime-text-3/Packages/PHP Getters and Setters/php-getters-setters.sublime-settings",
-		"/var/www/packages/Maxters/vendor/vlucas/spot2/lib/Entity/Collection.php",
+		"/var/www/packages/light-framework/src/Config/Config.php",
+		"/var/www/packages/light-framework/src/helpers.php",
+		"/var/www/packages/light-framework/src/Controller/Filterable.php",
+		"/var/www/packages/light-framework/src/Http/ResponseFactory.php",
+		"/var/www/light/composer.json",
+		"/var/www/packages/light-framework/vendor/phplegends/view/src/Finder.php",
+		"/var/www/packages/light-framework/vendor/phplegends/view/src/Factory.php",
+		"/var/www/packages/light-framework/composer.json",
+		"/var/www/packages/light-framework/src/Http/Request.php",
+		"/var/www/packages/light-framework/src/Routing/Dispatcher.php",
+		"/var/www/packages/light-framework/app",
+		"/var/www/packages/light-framework/vendor/phplegends/http/src/Response.php",
+		"/home/wallace/Documentos/teologia/www/templates/tab-chats.html",
+		"/home/wallace/Documentos/teologia/www/templates/alunos.html",
+		"/home/wallace/Documentos/teologia/www/js/app.js",
+		"/home/wallace/Documentos/teologia/www/js/services.js",
+		"/home/wallace/Documentos/teologia/www/js/controllers.js",
+		"/home/wallace/Documentos/teologia/www/templates/tabs.html",
 		"/home/wallace/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/var/www/packages/Maxters/app/Models/Page.php",
-		"/var/www/packages/Maxters/web/uploads/.gitignore",
-		"/var/www/packages/Maxters/readme.md",
-		"/var/www/packages/Maxters/resources/views/layout.phtml",
-		"/var/www/packages/Maxters/vendor/phplegends/http/src/RedirectResponse.php",
-		"/var/www/packages/Maxters/resources/views/users/index.phtml",
-		"/var/www/packages/Maxters/web/js/default.js",
-		"/var/www/packages/Maxters/vendor/vlucas/spot2/lib/Entity.php",
-		"/var/www/packages/Maxters/vendor/vlucas/spot2/lib/Query.php",
-		"/var/www/packages/Maxters/vendor/vlucas/spot2/lib/Locator.php",
-		"/var/www/packages/Maxters/server.sh",
-		"/etc/php/5.6/cli/php.ini",
-		"/var/www/packages/Maxters/app/../resources/config.php",
-		"/var/www/packages/Maxters/framework/views/users/index.phtml",
-		"/var/www/packages/Maxters/app/Models/Base/User.php",
-		"/var/www/packages/Maxters/db/schema.xml",
-		"/var/www/packages/Maxters/framework/views/layout.phtml",
-		"/var/www/packages/Maxters/framework/views/_debug/index.phtml",
-		"/var/www/packages/Maxters/framework/views/home/index.phtml",
-		"/var/www/packages/Maxters/app/Controllers/Home.php",
-		"/var/www/packages/Maxters/web/phpinfo.php",
-		"/var/www/lab/_route/.,",
-		"/var/www/packages/Maxters/db/propel.json",
-		"/var/www/packages/Maxters/framework/start.php",
-		"/var/www/packages/Maxters/framework/views/error/not_found.phtml",
-		"/var/www/packages/Maxters/framework/functions.php",
-		"/var/www/packages/Maxters/db/generated-conf/config.php",
-		"/var/www/packages/Maxters/app/Models/UserQuery.php",
-		"/var/www/packages/Maxters/app/Models/Base/UserQuery.php",
-		"/var/www/packages/Maxters/vendor/phplegends/routes/src/Route.php",
-		"/var/www/packages/Maxters/app/Maxters/Models/Base/User.php",
-		"/var/www/packages/Maxters/framework/views/infos.phtml",
-		"/var/www/packages/Maxters/web/js/infos.js",
-		"/var/www/packages/Maxters/app/Providers/ViewProvider.php",
-		"/var/www/packages/Maxters/app/Views/infos.phtml",
-		"/var/www/packages/Maxters/app/Views/home/index.phtml",
-		"/var/www/packages/Maxters/app/Views/layout.phtml",
-		"/var/www/packages/Maxters/vendor/pimple/pimple/src/Pimple/Container.php",
-		"/var/www/packages/Maxters/app/Views/error/default.phtml",
-		"/var/www/packages/Maxters/app/Views/error/not_found.phtml",
-		"/var/www/packages/Maxters/vendor/symfony/console/Input/InputAwareInterface.php",
-		"/var/www/packages/Maxters/app/Views/error/layout.phtml",
-		"/var/www/packages/Maxters/vendor/phplegends/http/src/Exceptions/HttpExceptionInterface.php",
-		"/var/www/packages/Maxters/deploy.php",
-		"/var/www/packages/Maxters/.gitignore",
-		"/var/www/packages/Maxters/app/Providers/AbstractProvider.php",
+		"/home/wallace/Documentos/teologia/www/index.html",
+		"/home/wallace/Documentos/teologia/www/templates/tab-account.html",
+		"/home/wallace/Documentos/teologia/teologia-ionic.sublime-project",
+		"/var/www/packages/Maxters/app/Controllers/Debug/DebugController.php",
+		"/var/www/packages/Maxters/app/routes.debug.php",
+		"/var/www/packages/Maxters/app/Controllers/Controller.php",
 		"/var/www/packages/Maxters/app/Providers/RouterProvider.php",
-		"/var/www/packages/Maxters/vendor/phplegends/view/src/Data.php",
+		"/var/www/packages/Maxters/app/routes.php",
+		"/var/www/packages/Maxters/app/Controllers/Home.php",
+		"/var/www/packages/Maxters/resources/views/layout.phtml",
+		"/var/www/packages/Maxters/app/Dispatcher.php",
+		"/var/www/packages/Maxters/app/Providers/SessionProvider.php",
+		"/var/www/packages/Maxters/vendor/phplegends/session/src/Handlers/FileHandler.php",
+		"/var/www/packages/Maxters/vendor/phplegends/session/src/Session.php",
+		"/var/www/packages/Maxters/vendor/phplegends/http/src/Session.php",
+		"/etc/php5/cli/php.ini",
+		"/var/www/packages/Maxters/temp/session/session__fda25400e15f811e3d8147e9b7196b2f465a97d6",
+		"/var/www/packages/Maxters/temp/session/session__659e725b4d7537f597bc1c31a8638c1b3b811fa9",
+		"/var/www/packages/Maxters/temp/session/.gitignore",
+		"/var/www/packages/Maxters/app/Providers/AppProvider.php",
+		"/var/www/packages/Maxters/app/Providers/DatabaseProvider.php",
+		"/var/www/packages/Maxters/app/Providers/HttpProvider.php",
+		"/var/www/packages/Maxters/app/Exceptions/Handle.php",
+		"/var/www/packages/Maxters/boot/start.php",
+		"/var/www/packages/Maxters/resources/config.php",
+		"/var/www/packages/Maxters/app/Providers/ViewProvider.php",
+		"/var/www/packages/Maxters/app/Providers/AbstractProvider.php",
+		"/var/www/packages/Maxters/vendor/phplegends/http/src/ResponseHeaderCollection.php",
+		"/var/www/packages/Maxters/vendor/pimple/pimple/src/Pimple/Container.php",
+		"/var/www/packages/Maxters/composer.json",
+		"/var/www/packages/Maxters/vendor/phplegends/http/src/HeaderCollection.php",
+		"/var/www/packages/Maxters/app/Models/User.php",
+		"/var/www/packages/Maxters/src/Routing/Dispatcher.php",
+		"/var/www/packages/Maxters/.gitignore",
+		"/home/wallace/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 		"/var/www/packages/Maxters/vendor/phplegends/view/src/Factory.php",
-		"/var/www/packages/Maxters/boot/functions.php",
+		"/home/wallace/.config/sublime-text-3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/var/www/packages/Maxters/src/Http/ResponseFactory.php",
+		"/var/www/packages/Maxters/vendor/phplegends/view/src/View.php",
+		"/home/wallace/.config/sublime-text-3/Packages/User/PHP Companion.sublime-settings",
+		"/home/wallace/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/var/www/packages/Maxters/vendor/phplegends/collections/src/Collection.php",
+		"/var/www/packages/Maxters/vendor/phplegends/http/src/RedirectResponse.php",
+		"/var/www/packages/Maxters/vendor/phplegends/http/src/JsonResponse.php",
+		"/var/www/packages/Maxters/web/js/angularjs/angular.min.js",
+		"/var/www/packages/Maxters/vendor/sabre/event/lib/EventEmitter.php",
+		"/var/www/packages/Maxters/vendor/vlucas/spot2/lib/Mapper.php",
+		"/var/www/packages/Maxters/app/Controllers/UsersController.php",
+		"/var/www/packages/Maxters/phpunit.xml",
+		"/var/www/packages/Maxters/vendor/vlucas/spot2/lib/Entity.php",
+		"/var/www/packages/Maxters/vendor/vlucas/spot2/lib/Locator.php",
+		"/var/www/packages/Maxters/vendor/vlucas/spot2/lib/Query.php",
+		"/var/www/packages/Maxters/vendor/doctrine/dbal/lib/Doctrine/DBAL/Query/QueryBuilder.php",
+		"/var/www/packages/Maxters/vendor/vlucas/spot2/lib/Config.php",
+		"/var/www/packages/Maxters/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php",
+		"/var/www/packages/Maxters/vendor/sabre/event/lib/EventEmitterTrait.php",
+		"/var/www/packages/Maxters/boot/constants.php",
+		"/var/www/packages/Maxters/resources/database.php",
+		"/var/www/packages/Maxters/app/Routing/routes.php",
+		"/var/www/packages/Maxters/tests/DatabaseTest.php",
+		"/var/www/packages/Maxters/tests/TestCase.php",
+		"/var/www/packages/Maxters/db/cli-config.php",
+		"/var/www/packages/Maxters/app/Http/ResponseFactory.php",
+		"/var/www/packages/Maxters/vendor/phplegends/routes/src/Route.php",
+		"/var/www/packages/Maxters/vendor/phplegends/routes/src/Result.php",
+		"/var/www/packages/Maxters/tests/RouterTest.php",
+		"/var/www/packages/Maxters/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/AnnotationDriver.php",
+		"/var/www/packages/Maxters/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Driver/AnnotationDriver.php",
+		"/var/www/packages/Maxters/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Setup.php",
+		"/var/www/packages/Maxters/vendor/doctrine/dbal/lib/Doctrine/DBAL/Configuration.php",
+		"/var/www/packages/Maxters/vendor/doctrine/orm/lib/Doctrine/ORM/Configuration.php",
+		"/var/www/packages/Maxters/db/xml/Maxters.Models.User.dcm.xml",
+		"/var/www/packages/Maxters/resources/views/home/index.phtml",
+		"/var/www/packages/Maxters/resources/views/_debug/index.phtml",
+		"/var/www/packages/Maxters/resources/functions.php",
+		"/var/www/packages/Maxters/vendor/phplegends/http/src/Uri.php",
+		"/var/www/packages/Maxters/app/Http/RedirectResponse.php",
+		"/var/www/packages/Maxters/vendor/phplegends/http/src/Request.php",
+		"/var/www/packages/Maxters/web/js/_debug/infos.js",
+		"/var/www/packages/Maxters/framework/functions.php",
+		"/var/www/packages/Maxters/framework/views/_debug/infos.phtml",
+		"/var/www/packages/Maxters/framework/views/infos.phtml",
+		"/var/www/packages/Maxters/web/js/_debug/index.js",
+		"/var/www/packages/Maxters/framework/views/_debug/index.phtml",
+		"/var/www/packages/Maxters/framework/start.php",
+		"/var/www/packages/Maxters/router.debug.php",
+		"/var/www/packages/Maxters/vendor/phplegends/routes/src/RoutableInspector.php",
+		"/var/www/packages/Maxters/vendor/phplegends/routes/src/Router.php",
+		"/var/www/packages/Maxters/app/Models/Base/UsersRoles.php",
+		"/var/www/packages/Maxters/db/propel.json",
+		"/home/wallace/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+		"/var/www/packages/Maxters/db/generated-sql/default.sql",
+		"/var/www/packages/Maxters/vendor/propel/propel/src/Propel/Generator/Platform/SqlitePlatform.php",
+		"/var/www/packages/Maxters/db/schema.xml",
+		"/home/wallace/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/var/www/packages/Maxters/db/generated-reversed-database/schema.xml",
+		"/var/www/packages/Maxters/db/database.sq2",
+		"/var/www/packages/Maxters/db/generated-migrations/PropelMigration_1467582260.php",
+		"/var/www/packages/Maxters/db/generated-conf/config.php",
+		"/var/www/packages/Maxters/app/Routing/Dispatcher.php",
+		"/var/www/packages/Maxters/web/index.php",
+		"/var/www/packages/Maxters/resources/views/error/not_found.phtml",
+		"/var/www/packages/Maxters/vendor/phplegends/http/src/Response.php",
+		"/var/www/packages/Maxters/app/Providers/Container.php",
+		"/var/www/packages/Maxters/app/Routes/Dispatcher.php",
 		"/var/www/packages/Maxters/app/config.php",
-		"/var/www/packages/Maxters/boot/app.php",
-		"/var/www/packages/Maxters/vendor/composer/autoload_classmap.php",
-		"/var/www/packages/Maxters/config/view.php",
-		"/var/www/packages/Maxters/app/Container.php",
-		"/var/www/packages/Maxters/boot/objects.php",
-		"/var/www/packages/Maxters/app/app.php",
-		"/var/www/packages/Maxters/app/App.php",
-		"/var/www/packages/view/view.sublime-project",
-		"/var/www/packages/view/test/FactoryTest.php",
-		"/var/www/packages/view/test/ViewTest.php",
-		"/var/www/packages/view/src/Factory.php",
-		"/var/www/packages/view/src/View.php",
-		"/var/www/packages/view/composer.json",
-		"/var/www/packages/view/test/views/home/testing/alias/for/view/factory/alias_test.phtml"
+		"/var/www/packages/Maxters/app/Http/Response.php",
+		"/var/www/packages/Maxters/vendor/guzzlehttp/psr7/src/Request.php",
+		"/var/www/packages/Maxters/vendor/phplegends/http/src/FilesCollection.php"
 	],
 	"find":
 	{
-		"height": 70.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
 		"height": 93.0,
 		"where_history":
 		[
-			"/var/www/unibh",
-			"/var/www/unibh/app",
-			"/var/www/unibh",
-			"/var/www/cv",
-			"/var/www/unibh",
-			"/var/www/cv",
-			"/var/www/php7/src",
-			"/var/www/unabh/public/css",
-			"/var/www/lab/time",
-			"/var/www/cv/",
-			"/var/www/cv/application",
-			"/var/www/cv/",
-			"/var/www/cv/laravel",
-			"/var/www/cv/application",
-			"/var/www/cv/",
-			"/var/www/cv/application",
-			"/var/www/cv",
-			"/var/www/laralab/vendor",
-			"/var/www/cv",
-			"/var/www/np",
-			"/var/www/uniselo",
-			"/var/www/lab/anima",
-			"/var/www/cv",
-			"/var/www/uniselo",
-			"/var/www/cv/laravel",
-			"/var/www/cv/",
-			"/var/www/cv/laravel",
-			"/var/www/cv/laravel/database",
-			"/var/www/cv/laravel",
-			"/var/www/cv/",
-			"/var/www/cv/application/views/",
-			"/var/www/cv/application/views/beneficiario/",
-			"/var/www/unibh",
-			"/var/www/cv/",
-			"/var/www/unibh/app/views",
-			"/var/www/unibh",
-			"/var/www/unibh/vendor",
-			"/var/www/unibh",
-			"/var/www/cv/laravel",
-			"/var/www/cv/",
-			"/var/www/unibh/",
-			"/var/www/unibh/public",
-			"/var/www/unibh/app",
-			"/var/www/unibh/vendor",
-			"/var/www/unibh/",
-			"/var/www/unibh/application",
-			"/var/www/unibh/public/js",
-			"/var/www/unibh/public",
-			"/var/www/unibh/vendor/gregwar",
-			"/var/www/unibh",
-			"/var/www/cv/application/views"
+			"/var/www/jp_5/app",
+			"/var/www/jp_5/app/Http/Controllers",
+			"/var/www/jp_5/vendor/laravel",
+			"/var/www/jp_5/app/Models",
+			"/var/www/timer/src/WallaceMaxters/Timer",
+			"/var/www/sevenframework",
+			"/var/www/tecle/app/views"
 		]
 	},
 	"find_state":
@@ -1408,134 +1048,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"withSess",
-			"Maxter",
-			"Maxters",
-			"Filterable",
-			"ControllerInterface",
-			"    \n",
-			"{\n",
-			"callRouteFilters",
-			"resolveResp",
-			"processFilterResult",
-			"createJson",
-			"createRespon",
-			"repository-class",
-			"dir",
-			"directo",
-			"class",
-			"path",
-			"name",
-			"bane",
-			"Response",
-			"Controller",
-			"resolveC",
-			"resolverControllerInstance",
-			"resolverCont",
-			"Closure",
-			"closure",
-			"pk",
-			"pkl",
-			"controller",
-			"insert",
-			"save",
-			"update",
-			"save",
-			"insert",
-			"queryBuilder",
-			"display_error",
-			"validat",
-			"\"Maxters\"",
-			"\"default\"",
-			"default",
-			"'defa",
-			"ConnectionInterface",
+			"prepare",
+			"resolveResponseValue",
+			"responseValue",
+			"controller(",
+			"gc",
+			"unlin",
+			"dest",
+			"close",
+			"gc",
+			"cg",
+			"cg(",
+			"{{",
+			"interpol",
+			"setApp",
+			"result",
 			"connection",
-			"('');",
-			"Z0",
-			"NotFo",
-			"NotFoud",
-			"var",
-			"PimpleContainer",
-			"{\n",
-			"Router",
-			"use PHPLegends\\Routes\\Router;\nuse PHPLegends\\Http\\Response;\nuse PHPLegends\\Routes\\Collection;\nuse PHPLegends\\Http\\JsonResponse;\nuse PHPLegends\\Http\\ServerRequest;\nuse PHPLegends\\Routes\\Dispatchable;\nuse PHPLegends\\Http\\Exceptions\\HttpException;",
-			"App",
-			"app",
-			"$name",
-			"name",
-			"$this->path",
-			"$path",
-			"parentView",
-			"extendedView",
-			"extend",
-			"closed",
-			"start()",
-			"start",
-			"start()",
-			"secions",
-			"static::$extension",
-			"static::$path",
-			"path",
-			"find",
-			"Exception",
-			"solicitacao",
-			"tarefa",
-			"notificar",
-			"10",
-			"@SistemaGeral",
-			"webservice/",
-			"Log",
-			"log",
-			"Log",
-			"|\n",
-			"this",
-			"NotFo",
-			"notifica",
-			"dd",
-			"d",
-			"dd",
-			"}",
-			"notificar",
-			"foreach(",
+			"config",
+			"header",
+			"protected function",
+			"JsonRes",
+			"actionIndexGet",
+			"delet",
+			"content",
+			"response",
+			"new Jso",
+			"new Jsoo",
+			"new Res",
+			"createREs",
+			"response",
+			"ServerRequest",
+			"HttpExce",
+			"getAct",
+			"methods",
+			"accepted",
+			"string $pattern",
+			"\n	public function get(string $pattern,",
 			"foreach",
-			"notificar",
-			"notificarTarefa",
-			"notificar",
-			"notificarTare",
-			"financeiro",
-			"];\n",
-			"}\n",
-			"tentarRenotificarCasoHajaErros",
-			"5",
-			"callbackCase",
-			"queue",
-			"notificarTare",
-			"data",
-			"= 4",
-			"3",
-			"limitDate",
-			"button",
-			"TMT",
-			"Ssitema",
-			"template",
-			"img",
-			"statusAtual",
-			"remessa",
-			"instance",
-			"default",
-			"createPayload",
-			"queue",
-			"timeTo",
-			"->queue = ",
-			"log",
-			"address",
-			"dispon",
-			"Jarektkaczyk",
-			"Falhou",
-			"listaStatus",
-			"first",
-			"unibh"
+			"'nome'",
+			"=>",
+			"'",
+			"'uf'",
+			"(",
+			"username",
+			"images/",
+			"images",
+			"url(",
+			"AulasCon",
+			">\n",
+			"alunos",
+			"alunos\n",
+			"AlunosCon",
+			"g",
+			"alunos",
+			"'pastor'",
+			"pastor",
+			"table-res",
+			"table",
+			"modulo",
+			"modulos",
+			"mod",
+			"modulo_id",
+			"modulo",
+			"Modulo",
+			"modulo",
+			"modulos",
+			"modulo",
+			"modulos",
+			"modulo",
+			"modulos",
+			"modulo",
+			"modulos",
+			"$Disciplina",
+			"modulo",
+			"Modulo",
+			"módulo",
+			"Modulo::",
+			"Modulo",
+			"Modulos",
+			"unsignedInteger",
+			"drop",
+			"compileForeign",
+			"foreign",
+			"this",
+			"foreign",
+			"nullable",
+			"new Fluent",
+			"Fluent",
+			"getL",
+			"get",
+			"hasMore",
+			"hasmore",
+			"iterator",
+			"</td>",
+			"dd>",
+			"dt>",
+			"<dt>",
+			"casts",
+			"cast",
+			"Input::old",
+			"$this->estado->",
+			"main",
+			"after",
+			"provider",
+			"prover",
+			"provider",
+			"boot",
+			"nav",
+			"sidebar-nav",
+			"alunos",
+			"pluck",
+			"nameList",
+			"abilities",
+			"Usua",
+			"intersect",
+			"intersect_",
+			"telefone",
+			"Request",
+			"ministros",
+			"Request",
+			"Carbon\\Carbon",
+			"Carbon\\",
+			"lists",
+			"Input::",
+			"                ",
+			"fonts/",
+			"font",
+			"fonts",
+			"data"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1543,36 +1183,16 @@
 		"regex": false,
 		"replace_history":
 		[
-			"\\n#",
-			".min.js",
-			"'$1',",
-			"\"$1\"",
-			",\\n",
-			"#990F20",
-			"#FA1733",
-			"'",
-			"WallaceMaxters\\Time",
-			"!1",
-			"!0",
-			"",
-			"!')",
-			">\n",
-			"}}\n",
-			"ASC",
-			"",
-			"'$1',",
-			"'$1'",
-			",",
-			"",
-			"usuario.",
-			"\"$1\",",
-			"\"$1\"",
-			"wm-btn-green2",
-			"\\n\\n",
-			"        \n",
-			":', ['class' => 'label']) }}",
-			":', ['class' => 'label') }}",
-			"\\n\\n"
+			"message.success",
+			"<?php\\nnamespace JP\\\\Models;\\n",
+			"<?php\\n namespace JP\\Models;\\n",
+			"graduacao",
+			"  ",
+			" ",
+			"ParameterTrait",
+			"WallaceMaxters\\SevenFramework\\Http\\Parameters",
+			"wallaceMaxters\\SevenFramework\\Http\\Parameters",
+			"wm-grid wm-grid-"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1588,102 +1208,71 @@
 			[
 				{
 					"buffer": 0,
-					"file": "composer.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 465,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								35,
-								35
-							]
-						],
-						"settings":
-						{
-							"auto_complete": true,
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "src/Controller/Controller.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 334,
+						"buffer_size": 265,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								239,
-								239
+								188,
+								188
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
+							"intellitip_row": 10,
 							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "src/Routing/Dispatcher.php",
+					"buffer": 1,
+					"file": "example/index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5625,
+						"buffer_size": 350,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1484,
-								1484
+								33,
+								33
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"intellitip_row": 4,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 630.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "src/Http/ResponseFactory.php",
-					"semi_transient": true,
+					"buffer": 2,
+					"file": "src/Config/Config.php",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1301,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -1696,46 +1285,14 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"intellitip_row": 0,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "src/Http/Request.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 622,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								356,
-								356
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1743,11 +1300,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 23.0
 	},
 	"input":
 	{
-		"height": 97.0
+		"height": 33.0
 	},
 	"layout":
 	{
@@ -1772,13 +1329,9 @@
 		]
 	},
 	"menu_visible": true,
-	"output.composer":
-	{
-		"height": 210.0
-	},
 	"output.exec":
 	{
-		"height": 243.0
+		"height": 268.0
 	},
 	"output.find_results":
 	{
@@ -1786,13 +1339,17 @@
 	},
 	"output.git":
 	{
-		"height": 122.0
+		"height": 88.0
 	},
-	"pinned_build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
+	"output.markdown":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
 	"project": "framework.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1802,516 +1359,516 @@
 		"selected_items":
 		[
 			[
-				"response",
-				"src/Http/ResponseFactory.php"
-			],
-			[
-				"dispatchertrait",
-				"vendor/phplegends/routes/src/Traits/DispatcherTrait.php"
-			],
-			[
-				"reque",
-				"vendor/phplegends/http/src/Request.php"
-			],
-			[
-				"request",
-				"vendor/phplegends/http/src/Request.php"
-			],
-			[
 				"finder",
 				"vendor/phplegends/view/src/Finder.php"
 			],
 			[
-				"fact",
+				"viewfactory",
 				"vendor/phplegends/view/src/Factory.php"
 			],
 			[
-				"route",
-				"app/routes.php"
-			],
-			[
-				"rdebug",
-				"app/routes.debug.php"
-			],
-			[
-				"responseh",
-				"vendor/phplegends/http/src/ResponseHeaderCollection.php"
-			],
-			[
-				"respon",
+				"respons",
 				"vendor/phplegends/http/src/Response.php"
 			],
 			[
-				"httppr",
-				"app/Providers/HttpProvider.php"
+				"tabs",
+				"www/templates/tabs.html"
 			],
 			[
-				"filter",
-				"vendor/phplegends/routes/src/Filter.php"
-			],
-			[
-				"dispatcertra",
-				"vendor/phplegends/routes/src/Traits/DispatcherTrait.php"
-			],
-			[
-				"router",
-				"vendor/phplegends/routes/src/Router.php"
-			],
-			[
-				"httpp",
-				"app/Providers/HttpProvider.php"
-			],
-			[
-				"respn",
-				"vendor/phplegends/http/src/Response.php"
-			],
-			[
-				"routes",
-				"app/routes.php"
-			],
-			[
-				"httpexception",
-				"vendor/phplegends/http/src/Exceptions/HttpException.php"
-			],
-			[
-				"notfoundexception",
-				"vendor/phplegends/http/src/Exceptions/NotFoundException.php"
-			],
-			[
-				"routecollec",
-				"vendor/phplegends/routes/src/Collection.php"
-			],
-			[
-				"colle",
-				"vendor/phplegends/collections/src/Collection.php"
-			],
-			[
-				".js",
-				"web/js/users/index.js"
-			],
-			[
-				"dispatchertra",
-				"vendor/phplegends/routes/src/Traits/DispatcherTrait.php"
+				"controll",
+				"www/js/controllers.js"
 			],
 			[
 				"debug",
-				"app/Controllers/Debug/DebugController.php"
+				"Maxters/app/Controllers/Debug/DebugController.php"
 			],
 			[
-				"methono",
-				"vendor/phplegends/http/src/Exceptions/MethodNotAllowedException.php"
+				"routes.",
+				"Maxters/app/routes.debug.php"
+			],
+			[
+				"contr",
+				"Maxters/app/Controllers/Controller.php"
+			],
+			[
+				"rout",
+				"Maxters/app/routes.php"
+			],
+			[
+				"home",
+				"Maxters/app/Controllers/Home.php"
+			],
+			[
+				"layot",
+				"Maxters/resources/views/layout.phtml"
 			],
 			[
 				"dispa",
-				"app/Dispatcher.php"
+				"Maxters/app/Dispatcher.php"
 			],
 			[
-				"trait.php",
-				"vendor/phpunit/phpunit-mock-objects/tests/_fixture/AbstractTrait.php"
+				"sesspr",
+				"Maxters/app/Providers/SessionProvider.php"
+			],
+			[
+				"session",
+				"Maxters/vendor/phplegends/session/src/Session.php"
+			],
+			[
+				"fileh",
+				"Maxters/vendor/phplegends/session/src/Handlers/FileHandler.php"
+			],
+			[
+				"sess",
+				"Maxters/vendor/phplegends/session/src/Session.php"
+			],
+			[
+				"session.php",
+				"Maxters/vendor/phplegends/http/src/Session.php"
+			],
+			[
+				"contro",
+				"Maxters/app/Controllers/Controller.php"
+			],
+			[
+				"route.d",
+				"Maxters/app/routes.debug.php"
+			],
+			[
+				"app",
+				"Maxters/app/Providers/AppProvider.php"
 			],
 			[
 				"disp",
-				"app/Dispatcher.php"
+				"Maxters/app/Dispatcher.php"
 			],
 			[
-				"spot",
-				"vendor/sebastian/comparator/tests/SplObjectStorageComparatorTest.php"
+				"handle",
+				"Maxters/app/Exceptions/Handle.php"
 			],
 			[
-				"entityrepository",
-				"vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php"
+				"sessip",
+				"Maxters/app/Providers/SessionProvider.php"
 			],
 			[
-				"entitymanager",
-				"vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php"
+				"appp",
+				"Maxters/app/Providers/AppProvider.php"
 			],
 			[
-				"simplifiedxmldriver",
-				"vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Driver/SimplifiedXmlDriver.php"
+				"pimpleconta",
+				"Maxters/vendor/pimple/pimple/src/Pimple/Container.php"
 			],
 			[
-				"database",
-				"app/Providers/DatabaseProvider.php"
+				"http",
+				"Maxters/app/Providers/HttpProvider.php"
 			],
 			[
-				"xml",
-				"vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Driver/XmlDriver.php"
+				"hearc",
+				"Maxters/vendor/phplegends/http/src/HeaderCollection.php"
 			],
 			[
-				"xmldr",
-				"vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Driver/XmlDriver.php"
+				"responshe",
+				"Maxters/vendor/phplegends/http/src/ResponseHeaderCollection.php"
 			],
 			[
-				"xmldriver",
-				"vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Driver/XmlDriver.php"
+				"compo",
+				"Maxters/composer.json"
 			],
 			[
-				"setup",
-				"vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Setup.php"
+				"fac",
+				"Maxters/vendor/phplegends/view/src/Factory.php"
 			],
 			[
-				"config",
-				"resources/config.php"
+				"view",
+				"Maxters/vendor/phplegends/view/src/View.php"
 			],
 			[
-				"start",
-				"boot/start.php"
+				"factor",
+				"Maxters/vendor/phplegends/view/src/Factory.php"
 			],
 			[
-				"ot/entity/collection",
-				"vendor/vlucas/spot2/lib/Entity/Collection.php"
+				"red",
+				"Maxters/vendor/phplegends/http/src/RedirectResponse.php"
 			],
 			[
-				"user.php",
-				"app/Models/User.php"
+				"jsonr",
+				"Maxters/vendor/phplegends/http/src/JsonResponse.php"
+			],
+			[
+				"json",
+				"Maxters/vendor/phplegends/http/src/JsonResponse.php"
+			],
+			[
+				"header",
+				"Maxters/vendor/phplegends/http/src/HeaderCollection.php"
+			],
+			[
+				"collection",
+				"Maxters/vendor/phplegends/collections/src/Collection.php"
+			],
+			[
+				"jsonre",
+				"Maxters/vendor/phplegends/http/src/JsonResponse.php"
+			],
+			[
+				"angular",
+				"Maxters/web/js/angularjs/angular.min.js"
+			],
+			[
+				"enty",
+				"Maxters/vendor/vlucas/spot2/lib/Entity.php"
+			],
+			[
+				"enti",
+				"Maxters/vendor/vlucas/spot2/lib/Entity.php"
+			],
+			[
+				"loca",
+				"Maxters/vendor/vlucas/spot2/lib/Locator.php"
+			],
+			[
+				"mapp",
+				"Maxters/vendor/vlucas/spot2/lib/Mapper.php"
+			],
+			[
+				"ent",
+				"Maxters/vendor/vlucas/spot2/lib/Entity.php"
+			],
+			[
+				"entit",
+				"Maxters/vendor/vlucas/spot2/lib/Entity.php"
+			],
+			[
+				"mapper",
+				"Maxters/vendor/vlucas/spot2/lib/Mapper.php"
+			],
+			[
+				"entity",
+				"Maxters/vendor/vlucas/spot2/lib/Entity.php"
+			],
+			[
+				"us",
+				"Maxters/app/Models/User.php"
+			],
+			[
+				"spotquer",
+				"Maxters/vendor/vlucas/spot2/lib/Query.php"
+			],
+			[
+				"spotq",
+				"Maxters/vendor/vlucas/spot2/lib/Query.php"
+			],
+			[
+				"quer",
+				"Maxters/vendor/doctrine/dbal/lib/Doctrine/DBAL/Query/QueryBuilder.php"
+			],
+			[
+				"spotmapp",
+				"Maxters/vendor/vlucas/spot2/lib/Mapper.php"
+			],
+			[
+				"spotloca",
+				"Maxters/vendor/vlucas/spot2/lib/Locator.php"
+			],
+			[
+				"locator",
+				"Maxters/vendor/vlucas/spot2/lib/Locator.php"
+			],
+			[
+				"spotconfig",
+				"Maxters/vendor/vlucas/spot2/lib/Config.php"
+			],
+			[
+				"config.php",
+				"Maxters/vendor/vlucas/spot2/lib/Config.php"
+			],
+			[
+				"eventemittertrait",
+				"Maxters/vendor/sabre/event/lib/EventEmitterTrait.php"
+			],
+			[
+				"sabreevent",
+				"Maxters/vendor/sabre/event/lib/EventEmitter.php"
 			],
 			[
 				"userc",
-				"app/Controllers/UsersController.php"
+				"Maxters/app/Controllers/UsersController.php"
 			],
 			[
-				"userindex.js",
-				"web/js/users/index.js"
+				"start",
+				"Maxters/boot/start.php"
+			],
+			[
+				"route.p",
+				"Maxters/vendor/phplegends/routes/src/Route.php"
+			],
+			[
+				"route",
+				"Maxters/vendor/phplegends/routes/src/Route.php"
+			],
+			[
+				"resul",
+				"Maxters/vendor/phplegends/routes/src/Result.php"
+			],
+			[
+				"databpr",
+				"Maxters/app/Providers/DatabaseProvider.php"
+			],
+			[
+				"u",
+				"Maxters/app/Models/User.php"
+			],
+			[
+				"annotationdriver",
+				"Maxters/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/AnnotationDriver.php"
+			],
+			[
+				"confugration.php",
+				"Maxters/vendor/doctrine/orm/lib/Doctrine/ORM/Configuration.php"
+			],
+			[
+				"configur",
+				"Maxters/vendor/doctrine/dbal/lib/Doctrine/DBAL/Configuration.php"
+			],
+			[
+				"setup",
+				"Maxters/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Setup.php"
+			],
+			[
+				"databa",
+				"Maxters/resources/database.php"
+			],
+			[
+				"routes",
+				"Maxters/app/routes.debug.php"
+			],
+			[
+				"_debugin",
+				"Maxters/resources/views/_debug/index.phtml"
+			],
+			[
+				"layout",
+				"Maxters/resources/views/layout.phtml"
+			],
+			[
+				"index.ph",
+				"Maxters/resources/views/home/index.phtml"
+			],
+			[
+				"debuinde",
+				"Maxters/resources/views/_debug/index.phtml"
+			],
+			[
+				"v",
+				"Maxters/vendor/phplegends/view/src/View.php"
+			],
+			[
+				"dis",
+				"Maxters/app/Dispatcher.php"
+			],
+			[
+				"routep",
+				"Maxters/app/Providers/RouterProvider.php"
+			],
+			[
+				"deb",
+				"Maxters/app/Controllers/Debug/DebugController.php"
+			],
+			[
+				"uri",
+				"Maxters/vendor/phplegends/http/src/Uri.php"
+			],
+			[
+				"use",
+				"Maxters/app/Controllers/UsersController.php"
+			],
+			[
+				"hand",
+				"Maxters/app/Exceptions/Handle.php"
+			],
+			[
+				"debu",
+				"Maxters/app/Controllers/Debug/DebugController.php"
+			],
+			[
+				"reque",
+				"Maxters/vendor/phplegends/http/src/Request.php"
+			],
+			[
+				"htt",
+				"Maxters/app/Providers/HttpProvider.php"
+			],
+			[
+				"conf",
+				"Maxters/resources/config.php"
+			],
+			[
+				"routepro",
+				"Maxters/app/Providers/RouterProvider.php"
+			],
+			[
+				"users",
+				"Maxters/app/Controllers/UsersController.php"
+			],
+			[
+				"_debinf",
+				"Maxters/framework/views/_debug/infos.phtml"
+			],
+			[
+				"infos",
+				"Maxters/web/js/_debug/infos.js"
+			],
+			[
+				"inf",
+				"Maxters/framework/views/infos.phtml"
+			],
+			[
+				"router",
+				"Maxters/app/Providers/RouterProvider.php"
+			],
+			[
+				"router.",
+				"Maxters/vendor/phplegends/routes/src/Router.php"
+			],
+			[
+				"routablein",
+				"Maxters/vendor/phplegends/routes/src/RoutableInspector.php"
+			],
+			[
+				"sqlitepla",
+				"Maxters/vendor/propel/propel/src/Propel/Generator/Platform/SqlitePlatform.php"
+			],
+			[
+				"r",
+				"Maxters/app/routes.php"
+			],
+			[
+				"no",
+				"resources/views/error/not_found.phtml"
+			],
+			[
+				"not_found",
+				"resources/views/error/not_found.phtml"
+			],
+			[
+				"respo",
+				"vendor/phplegends/http/src/Response.php"
 			],
 			[
 				"handl",
 				"app/Exceptions/Handle.php"
 			],
 			[
-				"httprp",
-				"app/Providers/HttpProvider.php"
-			],
-			[
-				"routes.b",
-				"app/routes.debug.php"
-			],
-			[
-				"layout",
-				"resources/views/layout.phtml"
-			],
-			[
-				"redirect",
-				"vendor/phplegends/http/src/RedirectResponse.php"
-			],
-			[
-				"resp",
+				"res",
 				"vendor/phplegends/http/src/Response.php"
 			],
 			[
-				"redirectresponse",
-				"vendor/phplegends/http/src/RedirectResponse.php"
+				"confi",
+				"app/config.php"
 			],
 			[
-				"contr",
-				"app/Controllers/Controller.php"
+				"exceptihan",
+				"app/Exceptions/Handle.php"
 			],
 			[
-				"controller",
-				"app/Controllers/Controller.php"
+				"response",
+				"vendor/phplegends/http/src/Response.php"
 			],
 			[
-				"entity",
-				"vendor/vlucas/spot2/lib/Entity.php"
+				"response.php",
+				"app/Http/Response.php"
 			],
 			[
-				"query",
-				"vendor/vlucas/spot2/lib/Query.php"
+				"responsec",
+				"vendor/phplegends/http/src/ResponseHeaderCollection.php"
 			],
 			[
-				"def",
-				"web/js/default.js"
-			],
-			[
-				"userin",
-				"resources/views/users/index.phtml"
-			],
-			[
-				"usersin",
-				"web/js/users/index.js"
-			],
-			[
-				"index.js",
-				"web/js/users/index.js"
-			],
-			[
-				"loca",
-				"vendor/vlucas/spot2/lib/Locator.php"
-			],
-			[
-				"enti",
-				"vendor/vlucas/spot2/lib/Entity.php"
-			],
-			[
-				"spotenti",
-				"vendor/vlucas/spot2/lib/Entity.php"
-			],
-			[
-				"enty",
-				"vendor/vlucas/spot2/lib/Entity.php"
-			],
-			[
-				"locator",
-				"vendor/vlucas/spot2/lib/Locator.php"
-			],
-			[
-				"entit",
-				"vendor/vlucas/spot2/lib/Entity.php"
-			],
-			[
-				"controll",
-				"app/Controllers/Controller.php"
-			],
-			[
-				"apppro",
-				"app/Providers/AppProvider.php"
-			],
-			[
-				"winde",
-				"web/index.php"
-			],
-			[
-				"defa",
-				"web/js/default.js"
-			],
-			[
-				"request.",
-				"vendor/phplegends/http/src/Request.php"
-			],
-			[
-				"sche",
-				"db/schema.xml"
-			],
-			[
-				"contro",
-				"app/Controllers/Controller.php"
-			],
-			[
-				"deb",
-				"app/Controllers/Debug/DebugController.php"
-			],
-			[
-				"reques",
-				"vendor/phplegends/http/src/Request.php"
-			],
-			[
-				"index.php",
-				"web/index.php"
-			],
-			[
-				"start.ph",
+				"sta",
 				"framework/start.php"
 			],
 			[
-				"readme",
-				"readme.md"
+				"files",
+				"vendor/phplegends/http/src/FilesCollection.php"
 			],
 			[
-				"fun",
-				"framework/functions.php"
+				"phprequ",
+				"vendor/phplegends/http/src/Request.php"
 			],
 			[
-				"n",
-				"framework/views/error/not_found.phtml"
+				"phprequest",
+				"vendor/phplegends/http/src/Request.php"
 			],
 			[
-				"userquery",
-				"app/Models/Base/UserQuery.php"
+				"request",
+				"vendor/guzzlehttp/psr7/src/Request.php"
 			],
 			[
-				"userque",
-				"app/Models/UserQuery.php"
+				"uploade",
+				"vendor/phplegends/http/src/UploadedFile.php"
 			],
 			[
-				"route.ph",
-				"vendor/phplegends/routes/src/Route.php"
+				"star",
+				"boot/start.php"
 			],
 			[
-				"lay",
-				"framework/views/layout.phtml"
+				"phplegends/routes/exceptions/httpexception",
+				"vendor/phplegends/routes/src/Exceptions/HttpException.php"
 			],
 			[
-				"infos",
-				"framework/views/infos.phtml"
+				"urlge",
+				"vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php"
 			],
 			[
-				"route.php",
-				"vendor/phplegends/routes/src/Route.php"
+				"url",
+				"vendor/symfony/routing/Generator/UrlGenerator.php"
 			],
 			[
-				"ro",
-				"app/routes.php"
+				"founreques",
+				"vendor/symfony/http-foundation/Request.php"
 			],
 			[
-				"container",
-				"vendor/pimple/pimple/src/Pimple/Container.php"
+				"routecoll",
+				"vendor/symfony/routing/RouteCollection.php"
 			],
 			[
-				"conta",
-				"vendor/pimple/pimple/src/Pimple/Container.php"
+				"bladecom",
+				"vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php"
 			],
 			[
-				"router.php",
-				"vendor/phplegends/routes/src/Router.php"
+				"alunin",
+				"resources/views/alunos/index.blade.php"
 			],
 			[
-				"rout",
-				"app/routes.php"
+				"aulasin",
+				"resources/views/aulas/index.blade.php"
 			],
 			[
-				"httpres",
-				"vendor/phplegends/http/src/Response.php"
+				"discinde",
+				"resources/views/disciplinas/index.blade.php"
 			],
 			[
-				"httpex",
-				"vendor/phplegends/http/src/Exceptions/HttpException.php"
+				"matindex",
+				"resources/views/materias/index.blade.php"
 			],
 			[
-				"httpin",
-				"vendor/phplegends/http/src/Exceptions/HttpExceptionInterface.php"
+				"igrejin",
+				"resources/views/igrejas/index.blade.php"
 			],
 			[
-				"httoe",
-				"vendor/phplegends/http/src/Exceptions/HttpException.php"
+				"graduainde",
+				"resources/views/graduacoes/index.blade.php"
 			],
 			[
-				"errodefa",
-				"app/Views/error/default.phtml"
+				"estaindex",
+				"resources/views/estados/index.blade.php"
 			],
 			[
-				"data",
-				"vendor/phplegends/view/src/Data.php"
+				"item_",
+				"resources/views/layouts/partials/item_options.blade.php"
 			],
 			[
-				"collec",
-				"vendor/phplegends/collections/src/Collection.php"
-			],
-			[
-				"fac",
-				"vendor/phplegends/view/src/Factory.php"
-			],
-			[
-				"facto",
-				"vendor/phplegends/view/src/Factory.php"
-			],
-			[
-				"data.p",
-				"vendor/phplegends/view/src/Data.php"
-			],
-			[
-				"data.php",
-				"vendor/phplegends/view/src/Data.php"
-			],
-			[
-				"container.php",
-				"vendor/pimple/pimple/src/Pimple/Container.php"
-			],
-			[
-				"view",
-				"src/View.php"
-			],
-			[
-				"secti",
-				"src/Section.php"
-			],
-			[
-				"sec",
-				"src/Section.php"
-			],
-			[
-				"view.ph",
-				"src/View.php"
-			],
-			[
-				"index.ht",
-				"test/views/home/index.phtml"
-			],
-			[
-				"sectioncol",
-				"src/SectionCollection.php"
-			],
-			[
-				"seco",
-				"src/SectionCollection.php"
-			],
-			[
-				"sectionc",
-				"src/SectionCollection.php"
-			],
-			[
-				"view.php",
-				"src/View.php"
-			],
-			[
-				"sect",
-				"src/Section.php"
-			],
-			[
-				"artisan",
-				"unibh/app/start/artisan.php"
-			],
-			[
-				"taskw",
-				"unibh/app/commands/TaskWarningCommand.php"
-			],
-			[
-				"notifi",
-				"unibh/app/views/emails/notificacao_atraso_tarefa.blade.php"
-			],
-			[
-				"nive",
-				"unibh/app/models/Nivel.php"
-			],
-			[
-				"notificacao",
-				"unibh/app/views/emails/notificacao_tarefa.blade.php"
-			],
-			[
-				"solic",
-				"unibh/app/controllers/SolicitacaoController.php"
-			],
-			[
-				"remes",
-				"unibh/app/controllers/RemessaController.php"
-			],
-			[
-				"nivel",
-				"unibh/app/models/Nivel.php"
-			],
-			[
-				"artisan.php",
-				"unibh/app/start/artisan.php"
-			],
-			[
-				"ni",
-				"unibh/app/models/Nivel.php"
-			],
-			[
-				"localdata",
-				"unibh/app/config/local/database.php"
-			],
-			[
-				"local",
-				"unibh/app/start/local.php"
-			],
-			[
-				"remesa.php",
-				"unibh/app/models/Remessa.php"
-			],
-			[
-				"remessa",
-				"unibh/app/controllers/RemessaController.php"
-			],
-			[
-				"remesac",
-				"unibh/app/controllers/RemessaController.php"
-			],
-			[
-				"solicc",
-				"unibh/app/controllers/SolicitacaoController.php"
-			],
-			[
-				"global",
-				"unibh/app/start/global.php"
+				"create_b",
+				"resources/views/layouts/partials/create_button.blade.php"
 			]
 		],
 		"width": 0.0
@@ -2324,291 +1881,119 @@
 		[
 			[
 				"",
-				"/var/www/packages/Maxters/Maxters.sublime-project"
+				"/var/www/jp_5/jp.5.sublime-project"
 			],
 			[
-				"fac",
-				"/var/www/facisa/facisa.sublime-project"
+				"te",
+				"~/Documentos/teologia/teologia-ionic.sublime-project"
 			],
 			[
-				"htt",
-				"/var/www/packages/http2/http2.sublime-project"
+				"j",
+				"/var/www/jp_5/jp.5.sublime-project"
+			],
+			[
+				"http",
+				"/var/www/packages/http-2/http-2.sublime-project"
 			],
 			[
 				"sess",
 				"/var/www/packages/session/session.sublime-project"
 			],
 			[
+				"se",
+				"/var/www/packages/session/session.sublime-project"
+			],
+			[
+				"ss",
+				"/var/www/packages/session/session.sublime-project"
+			],
+			[
+				"ma",
+				"/var/www/packages/Maxters/Maxters.sublime-project"
+			],
+			[
+				"gttp",
+				"/var/www/packages/http/http.sublime-workspace"
+			],
+			[
+				"htt",
+				"/var/www/packages/http-2/http-2.sublime-project"
+			],
+			[
+				"jp",
+				"/var/www/jp_5/jp.5.sublime-project"
+			],
+			[
+				"routes",
+				"/var/www/packages/routes/routes.sublime-project"
+			],
+			[
+				"rou",
+				"/var/www/packages/routes/routes.sublime-project"
+			],
+			[
+				"maxters",
+				"/var/www/packages/maxters-framework/maxters-core.sublime-project"
+			],
+			[
+				"route",
+				"/var/www/packages/routes/routes.sublime-project"
+			],
+			[
+				"h",
+				"/var/www/packages/http-2/http-2.sublime-project"
+			],
+			[
+				"maxte",
+				"/var/www/packages/Maxters/Maxters.sublime-project"
+			],
+			[
 				"r",
 				"/var/www/packages/routes/routes.sublime-project"
 			],
 			[
-				"route",
-				"/var/www/packages/view/src/routes.sublime-workspace"
+				"vi",
+				"/var/www/packages/view/view.sublime-project"
+			],
+			[
+				"ro",
+				"/var/www/packages/routes/routes.sublime-project"
+			],
+			[
+				"hh",
+				"/var/www/packages/http-2/http-2.sublime-project"
+			],
+			[
+				"rout",
+				"/var/www/packages/routes/routes.sublime-project"
 			],
 			[
 				"max",
 				"/var/www/packages/Maxters/Maxters.sublime-project"
 			],
 			[
-				"siste",
-				"/var/www/sistemageral/sistemageral.sublime-project"
-			],
-			[
-				"e",
-				"/var/www/packages/epic/epic.sublime-project"
-			],
-			[
-				"sistema",
-				"/var/www/sistemageral/sistemageral.sublime-project"
-			],
-			[
 				"http2",
-				"/var/www/packages/http2/http2.sublime-project"
+				"/var/www/packages/http-2/http-2.sublime-project"
 			],
 			[
-				"s",
-				"/var/www/sistemageral/sistemageral.sublime-project"
-			],
-			[
-				"maxter",
-				"/var/www/packages/Maxters/Maxters.sublime-project"
-			],
-			[
-				"routes",
-				"/var/www/packages/view/src/routes.sublime-workspace"
-			],
-			[
-				"f",
-				"/var/www/fast_gci/fastgci.sublime-project"
-			],
-			[
-				"un",
-				"/var/www/unibh/unibh-identidade-estudantil.sublime-project"
-			],
-			[
-				"sistea",
-				"/var/www/sistemageral/sistemageral.sublime-project"
-			],
-			[
-				"si",
-				"/var/www/sistemageral/sistemageral.sublime-project"
-			],
-			[
-				"uni",
-				"/var/www/unibh/unibh-identidade-estudantil.sublime-project"
-			],
-			[
-				"una",
-				"/var/www/unabh/una-identidade-estudantil.sublime-project"
-			],
-			[
-				"view",
-				"/var/www/packages/view/view.sublime-project"
-			],
-			[
-				"http",
-				"/var/www/packages/http/http.sublime-project"
-			],
-			[
-				"maxx",
-				"/var/www/packages/Maxters/maxters.sublime-workspace"
-			],
-			[
-				"ma",
-				"/var/www/magneti/magneti.sublime-project"
-			],
-			[
-				"i",
-				"/var/www/unibh/unibh-identidade-estudantil.sublime-project"
-			],
-			[
-				"colle",
-				"/var/www/packages/collections/collections.sublime-project"
-			],
-			[
-				"comauj",
-				"/var/www/comau/comau.sublime-project"
-			],
-			[
-				"comau",
-				"/var/www/comau/comau.sublime-project"
-			],
-			[
-				"coma",
-				"/var/www/comau/comau.sublime-project"
-			],
-			[
-				"sist",
-				"/var/www/sistemageral/sistemageral.sublime-project"
-			],
-			[
-				"co",
-				"/var/www/comau/comau.sublime-project"
-			],
-			[
-				"com",
-				"/var/www/comau/comau.sublime-project"
-			],
-			[
-				"sis",
-				"/var/www/sistemageral/sistemageral.sublime-project"
-			],
-			[
-				"np",
-				"/var/www/magneti/magneti.sublime-project"
-			],
-			[
-				"tumh",
-				"/var/www/packages/thumb/thumb.sublime-project"
-			],
-			[
-				"mange",
-				"/var/www/magneti/magneti.sublime-project"
-			],
-			[
-				"sile",
-				"/var/www/lab/silex/silex.sublime-project"
-			],
-			[
-				"card",
-				"/var/www/cv/cardvantagens.sublime-project"
-			],
-			[
-				"unib",
-				"/var/www/unibh/unibh-identidade-estudantil.sublime-project"
-			],
-			[
-				"supp",
-				"/var/www/packages/support/support.sublime-project"
-			],
-			[
-				"timer",
-				"/var/www/packages/timer/timer.sublime-project"
-			],
-			[
-				"laravel",
-				"/var/www/packages/laravel-time/timer-laravel.sublime-project"
-			],
-			[
-				"collec",
-				"/var/www/packages/collections/collections.sublime-project"
-			],
-			[
-				"time",
-				"/var/www/packages/timer/timer.sublime-project"
-			],
-			[
-				"car",
-				"/var/www/cv/cardvantagens.sublime-project"
-			],
-			[
-				"marg",
-				"/var/www/magneti/magneti.sublime-workspace"
-			],
-			[
-				"mag",
-				"/var/www/magneti/magneti.sublime-project"
-			],
-			[
-				"magne",
-				"/var/www/magneti/magneti.sublime-project"
-			],
-			[
-				"ale",
-				"/var/www/ale/ale.sublime-project"
-			],
-			[
-				"unse_",
-				"/var/www/uniselo/uni_selo.sublime-project"
-			],
-			[
-				"uni_se",
-				"/var/www/uniselo/uni_selo.sublime-project"
-			],
-			[
-				"unab",
-				"/var/www/unabh/una-identidade-estudantil.sublime-project"
-			],
-			[
-				"compo",
-				"/var/www/packages/collections/collections.sublime-project"
-			],
-			[
-				"unibh",
-				"/var/www/unibh/unibh-identidade-estudantil.sublime-project"
+				"HTT",
+				"/var/www/packages/http-2/http-2.sublime-project"
 			],
 			[
 				"coll",
 				"/var/www/packages/collections/collections.sublime-project"
-			],
-			[
-				"unia",
-				"/var/www/unabh/una-identidade-estudantil.sublime-project"
-			],
-			[
-				"UNA",
-				"/var/www/unabh/una-identidade-estudantil.sublime-project"
-			],
-			[
-				"unas",
-				"/var/www/unaselo/una_selo.sublime-project"
-			],
-			[
-				"unabh",
-				"/var/www/unabh/una-identidade-estudantil.sublime-project"
-			],
-			[
-				"unA",
-				"/var/www/unabh/una-identidade-estudantil.sublime-project"
-			],
-			[
-				"unise",
-				"/var/www/uniselo/uni_selo.sublime-project"
-			],
-			[
-				"su",
-				"/var/www/packages/support/support.sublime-project"
-			],
-			[
-				"lege",
-				"/var/www/legendary/legendary.sublime-project"
-			],
-			[
-				"uma",
-				"/var/www/unabh/una-identidade-estudantil.sublime-project"
-			],
-			[
-				"thu",
-				"/var/www/thumb/thumb.sublime-project"
-			],
-			[
-				"fiat",
-				"/var/www/fiat/fiat.sublime-project"
-			],
-			[
-				"c",
-				"/var/www/cv/cardvantagens.sublime-project"
-			],
-			[
-				"cv",
-				"/var/www/cv/cardvantagens.sublime-project"
-			],
-			[
-				"coa",
-				"/var/www/cv/cardvantagens.sublime-project"
 			]
 		],
 		"width": 380.0
 	},
 	"select_symbol":
 	{
-		"height": 400.0,
+		"height": 0.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 817.0
+		"width": 0.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -2618,7 +2003,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 348.0,
+	"side_bar_width": 282.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
