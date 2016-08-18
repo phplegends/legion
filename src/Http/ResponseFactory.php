@@ -47,4 +47,18 @@ class ResponseFactory
         return $this->create($this->viewFactory->ceate($view, $data), $code, $callback);
     }
 
+    public function __get($key)
+    {
+        if (in_array($key, ['cookies', 'headers'])) {
+            
+            return $this->{'get' . ucfirst($key)}();
+        }
+
+        throw new \InvalidArgumentException(sprintf(
+            'Property %s::$%s doest not exists',
+            __CLASS__,
+            $key
+        ));
+    }
+
 }

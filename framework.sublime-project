@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/var/www/packages/light"
 		}
 	]
 }

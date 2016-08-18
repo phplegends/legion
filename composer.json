@@ -9,10 +9,19 @@
             "email": "wallacemaxters@gmail.com"
         }
     ],
+
     "minimum-stability" : "dev",
+
     "require": {
         "phplegends/http" : "dev-master",
         "phplegends/routes" : "dev-master",
         "phplegends/view"   : "dev-master"
+    },
+    
+    "autoload" : {
+        "psr-4" : {
+            "Light\\" : "src/"
+        },
+        "files" : ["src/helpers.php"]
     }
 }

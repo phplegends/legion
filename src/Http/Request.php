@@ -9,9 +9,9 @@ use PHPLegends\Http\Request as BaseRequest;
 
 class Request extends BaseRequest
 {
-    protected $currentRoute = null;
+    protected $currentRoute;
 
-    protected $session = null;
+    protected $session;
 
     public function setSession(SessionInterface $session)
     {
