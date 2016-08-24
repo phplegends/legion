@@ -1,8 +1,8 @@
 <?php
 
-namespace Light\Controller;
+namespace Legion\Controller;
 
-use Light\Http\Request;
+use Legion\Http\Request;
 use PHPLegends\Http\Response;
 
 class Controller implements Filterable

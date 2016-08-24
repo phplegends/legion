@@ -1,13 +1,13 @@
 <?php
 
-namespace Light\Routing;
+namespace Legion\Routing;
 
+use PHPLegends\Routes\Router as BaseRouter;
+use PHPLegends\Routes\Route as BaseRoute;
 use PHPLegends\Http\Request;
-use PHPLegends\Routes\Route;
 use PHPLegends\Http\Response;
-use PHPLegends\Routes\Router;
-use Light\Http\ResponseFactory;
-use Light\Controller\Controller;
+use Legion\Http\ResponseFactory;
+use Legion\Controller\Controller;
 use PHPLegends\Http\JsonResponse;
 use PHPLegends\Routes\Dispatchable;
 use PHPLegends\Http\Exceptions\HttpException;
@@ -42,7 +42,7 @@ class Dispatcher implements Dispatchable
      * @param \PHPLegends\Routes\Router $router
      * @return \PHPLegends\Http\Response
      * */
-    public function dispatch(Router $router)
+    public function dispatch(BaseRouter $router)
     {
         $route = $this->findRouteByRequest($router, $this->request);
 
@@ -50,7 +50,7 @@ class Dispatcher implements Dispatchable
 
         if (($filter = $this->callRouteFilters($router, $route)) !== null) {
             
-            return $this->prepareReponse($filter);
+            return $this->prepareReponse($filter)->send();
         }
 
         $this->callRouteAction($route)->send(true);
@@ -61,7 +61,7 @@ class Dispatcher implements Dispatchable
      * @param \PHPLegends\Routes\Route $route
      * @return mixed
      * */
-    protected function callRouteAction(Route $route)
+    protected function callRouteAction(BaseRoute $route)
     {
         $callable = $this->buildRouteAction($route);
 
@@ -92,7 +92,7 @@ class Dispatcher implements Dispatchable
      * @param \PHPLegends\Routes\Router $router
      * @param \PHPLegends\Routes\Route $route
      * */
-    protected function callRouteFilters(Router $router, Route $route)
+    protected function callRouteFilters(BaseRouter $router, BaseRoute $route)
     {
         foreach ($router->getFilters()->filterByRoute($route) as $filter) {
 
@@ -163,8 +163,7 @@ class Dispatcher implements Dispatchable
      * @param PHPLegends\Http\Response $response
      * */
     protected function prepareReponse(Response $response)
-    {        
-
+    {    
         if ($session = $this->request->getSession()) {
 
             $response->withSession($session);

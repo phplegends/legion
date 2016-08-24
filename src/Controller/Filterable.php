@@ -1,8 +1,8 @@
 <?php
 
-namespace Light\Controller;
+namespace Legion\Controller;
 
-use Light\Http\Request;
+use Legion\Http\Request;
 use PHPLegends\Http\Response;
 
 interface Filterable
@@ -10,13 +10,13 @@ interface Filterable
 
     /**
      * 
-     * @param Light\Http\Request $request
+     * @param Legion\Http\Request $request
      * */
     public function beforeResponse(Request $request);
 
     /**
      * 
-     * @param Light\Http\Request $request
+     * @param Legion\Http\Request $request
      * @param PHPLegends\Http\Response $response
      * */
     public function afterResponse(Request $request, Response $response);    

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Light\Http;
+namespace Legion\Http;
 
 use PHPLegends\Routes\Route;
 use PHPLegends\Session\SessionInterface;

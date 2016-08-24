@@ -1,6 +1,6 @@
 <?php
 
-namespace Light\Http;
+namespace Legion\Http;
 
 use PHPLegends\Http\Response;
 use PHPLegends\Http\JsonResponse;
