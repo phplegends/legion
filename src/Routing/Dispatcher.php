@@ -8,10 +8,8 @@ use PHPLegends\Http\Request;
 use PHPLegends\Http\Response;
 use Legion\Http\ResponseFactory;
 use Legion\Controller\Controller;
-use PHPLegends\Http\JsonResponse;
 use PHPLegends\Routes\Dispatchable;
 use PHPLegends\Http\Exceptions\HttpException;
-use PHPLegends\Http\ResponseHeaderCollection;
 use PHPLegends\Routes\Traits\DispatcherTrait;
 use PHPLegends\Http\Exceptions\NotFoundException;
 use PHPLegends\Http\Exceptions\MethodNotAllowedException;
@@ -26,10 +24,23 @@ class Dispatcher implements Dispatchable
 
     use DispatcherTrait;
 
+    /**
+     * 
+     * @var \PHPLegends\Http\Request
+     * */
     protected $request;
 
+    /**
+     * 
+     * @var \PHPLegends\Http\ResponseFactory
+     * */
     protected $responseFactory;
 
+    /**
+     * 
+     * @param \Legion\Http\Request $request
+     * @param \Legion\Http\ResponseFactory $responseFactory
+     * */
     public function __construct(Request $request, ResponseFactory $responseFactory)
     {
         $this->request = $request;
@@ -40,7 +51,6 @@ class Dispatcher implements Dispatchable
     /**
      * 
      * @param \PHPLegends\Routes\Router $router
-     * @return \PHPLegends\Http\Response
      * */
     public function dispatch(BaseRouter $router)
     {
@@ -58,10 +68,10 @@ class Dispatcher implements Dispatchable
 
     /**
      * 
-     * @param \PHPLegends\Routes\Route $route
+     * @param \Legion\Routing\Route $route
      * @return mixed
      * */
-    protected function callRouteAction(BaseRoute $route)
+    protected function callRouteAction(Route $route)
     {
         $callable = $this->buildRouteAction($route);
 
