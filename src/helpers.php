@@ -45,8 +45,7 @@ function array_path_set(array &$array, $path, $value)
  * */
 function array_path_get(array $array, $path, $default = null)
 {
-
-    $copy =& $array;
-    foreach (explode('.', $path) as $key) $copy =& $copy[$key];
-    return $copy === null ? $default : $copy;
+    $ref =& $array;
+    foreach (explode('.', $path) as $key) $ref =& $ref[$key];
+    return $ref === null ? $default : $ref;
 }
