@@ -44,7 +44,7 @@ class ResponseFactory
 
     public function view($view, $data = [], $code = 200, \Closure $callback = null)
     {
-        return $this->create($this->viewFactory->ceate($view, $data), $code, $callback);
+        return $this->create($this->viewFactory->create($view, $data), $code, $callback);
     }
 
     public function __get($key)
