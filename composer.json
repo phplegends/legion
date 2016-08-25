@@ -1,8 +1,11 @@
 {
-    "name": "phplegends/framework",
-    "description": "A prepared core for frameworks",
+    "name": "phplegends/legion",
+    "description": "A microframework for php",
     "type": "framework",
-    "license": "mit",
+    "keywords" : [
+        "framework", "phplegends", "microframework", "legion"
+    ],
+    "license": "MIT",
     "authors": [
         {
             "name": "Wallace de Souza Vizerra",
