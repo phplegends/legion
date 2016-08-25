@@ -13,12 +13,10 @@
         }
     ],
 
-    "minimum-stability" : "dev",
-
     "require": {
-        "phplegends/http" : "dev-master",
-        "phplegends/routes" : "dev-master",
-        "phplegends/view"   : "dev-master"
+        "phplegends/http" : "0.*",
+        "phplegends/routes" : "0.*",
+        "phplegends/view"   : "0.*"
     },
     
     "autoload" : {
