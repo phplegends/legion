@@ -2,16 +2,17 @@
 
 namespace Legion\Routing;
 
-use PHPLegends\Routes\Router as BaseRouter;
-use PHPLegends\Routes\Route as BaseRoute;
 use PHPLegends\Http\Request;
 use PHPLegends\Http\Response;
 use Legion\Http\ResponseFactory;
 use Legion\Controller\Controller;
 use PHPLegends\Routes\Dispatchable;
+use PHPLegends\Routes\Route as BaseRoute;
+use PHPLegends\Routes\Router as BaseRouter;
 use PHPLegends\Http\Exceptions\HttpException;
 use PHPLegends\Routes\Traits\DispatcherTrait;
 use PHPLegends\Http\Exceptions\NotFoundException;
+use PHPLegends\Routes\Exceptions\InvalidVerbException;
 use PHPLegends\Http\Exceptions\MethodNotAllowedException;
 use PHPLegends\Routes\Exceptions\NotFoundException as RouteNotFoundException;
 
