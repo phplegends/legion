@@ -36,6 +36,13 @@ class Dispatcher implements Dispatchable
      * */
     protected $responseFactory;
 
+
+    /**
+     * @var string
+     */
+
+     protected $defaultController = Controller::class;
+
     /**
      * 
      * @param \Legion\Http\Request $request
@@ -130,7 +137,7 @@ class Dispatcher implements Dispatchable
 
         if ($action instanceof \Closure) {
 
-            $controller = new Controller();
+            $controller = new $this->defaultController;
 
             return $action->bindTo($controller, get_class($controller));
         }
@@ -169,8 +176,8 @@ class Dispatcher implements Dispatchable
     }
 
     /**
-     * 
      * @param PHPLegends\Http\Response $response
+     * 
      * */
     protected function prepareReponse(Response $response)
     {    
@@ -180,6 +187,31 @@ class Dispatcher implements Dispatchable
         }
 
         return $response;
+    }
+
+
+    /**
+     * 
+     * @param string $controller
+     * 
+     * @return 
+     * */ 
+    public function setDefaultController($controller)
+    {
+
+        if (! class_exists($controller)) {
+
+            throw new \UnexpectedValueException(sprintf('Controller %s not found', $controller));
+        }   
+
+        $this->defaultController = $controller;
+
+        return $this;
+    }
+
+    public function getDefaultController()
+    {
+        return $this->defaultController;
     }
 }
 
