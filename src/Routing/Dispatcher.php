@@ -179,7 +179,7 @@ class Dispatcher implements Dispatchable
      * @param PHPLegends\Http\Response $response
      * 
      * */
-    protected function prepareReponse(Response $response)
+    public function prepareReponse(Response $response)
     {    
         if ($session = $this->request->getSession()) {
 
