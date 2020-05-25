@@ -2,6 +2,7 @@
 
 namespace Legion\Routing;
 
+use PHPLegends\Routes\RoutableInspector;
 use PHPLegends\Routes\Router as BaseRouter;
 
 class Router extends BaseRouter
@@ -60,5 +61,25 @@ class Router extends BaseRouter
     public function getMiddlewares()
     {
         return $this->middlewares;
+    }
+
+
+     /**
+     *
+     * @param string $class
+     * @param string|null $prefix
+     * */
+
+    public function resource($class, $prefix = null)
+    {
+
+        $inspector = new RoutableInspector($class);
+
+        $router = $inspector->generateResourceRoutes(new static(), $prefix);
+
+        $this->mergeRouter($router);
+
+        return $this;
+
     }
 }
