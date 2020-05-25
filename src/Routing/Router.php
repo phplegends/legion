@@ -30,7 +30,7 @@ class Router extends BaseRouter
         $route   = new Route($pattern, $action, $verbs, $name);
 
         if ($middlewares = $this->getMiddlewares()) {
-            $route->setMiddlewares($filters);
+            $route->setMiddlewares($middlewares);
         }
 
         $this->routes->add($route);
