@@ -6,6 +6,9 @@ use PHPLegends\Routes\Router as BaseRouter;
 
 class Router extends BaseRouter
 {
+
+    protected $middlewares = [];
+
     /**
      * Create a new route instance and attach to Collection
      *
@@ -26,13 +29,36 @@ class Router extends BaseRouter
 
         $route   = new Route($pattern, $action, $verbs, $name);
 
-        if ($filters = $this->getDefaultFilters()) {
-
-            $route->setFilters($filters);
+        if ($middlewares = $this->getMiddlewares()) {
+            $route->setMiddlewares($filters);
         }
 
         $this->routes->add($route);
 
         return $route;
+    }
+
+
+    public function setOptions(array $args)
+    {
+        parent::setOptions($args);
+
+        if (isset($args['middlewares'])) {
+            $this->setMiddlewares($args['middlewares']);
+        }
+
+        return $this;
+    }
+
+    public function setMiddlewares(array $middlewares)
+    {
+        $this->middlewares = $middlewares;
+
+        return $this;
+    }
+
+    public function getMiddlewares()
+    {
+        return $this->middlewares;
     }
 }

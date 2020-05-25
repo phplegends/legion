@@ -66,9 +66,10 @@ class Dispatcher implements Dispatchable
 
         $this->request->setCurrentRoute($route);
 
-        if (($filter = $this->callRouteFilters($router, $route)) !== null) {
-            
-            return $this->prepareReponse($filter)->send();
+        $result = $this->callRouteMiddlewares($route);
+
+        if ($result !== null) {
+            return $this->prepareReponse($result)->send();
         }
 
         $this->callRouteAction($route)->send(true);
@@ -214,5 +215,29 @@ class Dispatcher implements Dispatchable
     {
         return $this->defaultController;
     }
+
+
+    public function callRouteMiddlewares(Route $route)
+    {
+        $middlewares = $route->getMiddlewares();
+
+        foreach ($middlewares as $key => $middleware) {
+
+            $instance = new $middleware();
+
+            $result = $instance->handle($this->request, $this->responseFactory);
+
+            if ($result instanceof Response) {
+                return $result;
+            } elseif ($result === null) {
+                continue;
+            }
+
+
+            throw new \UnexpectedValueException('Middleware should be return Response or NULL');
+        }
+
+    }
 }
+
 
