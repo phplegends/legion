@@ -217,7 +217,7 @@ class Dispatcher implements Dispatchable
     }
 
 
-    public function callRouteMiddlewares(BaseRoute $route)
+    public function callRouteMiddlewares(Route $route)
     {
         $middlewares = $route->getMiddlewares();
 
