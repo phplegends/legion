@@ -73,9 +73,14 @@ class Router extends BaseRouter
     public function resource($class, $prefix = null)
     {
 
+        if ($ns = $this->getNamespace())
+		{
+			$class  = $ns . '\\' . $class;
+		}
+
         $inspector = new RoutableInspector($class);
 
-        $router = $inspector->generateResourceRoutes(new static(), $prefix);
+        $router = $inspector->generateResourceRoutes($this, $prefix);
 
         $this->mergeRouter($router);
 
