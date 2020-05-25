@@ -75,7 +75,7 @@ class Router extends BaseRouter
 
         if ($ns = $this->getNamespace())
 		{
-			$class  = $ns . '\\' . $class;
+			$class  = rtrim($ns, '\\') . '\\' . $class;
 		}
 
         $inspector = new RoutableInspector($class);
