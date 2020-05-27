@@ -2,14 +2,14 @@
 
 
 use Legion\Http\Request;
+use Legion\Routing\Route;
+use Legion\Routing\Router;
 use PHPLegends\View\Finder;
 use PHPLegends\View\Factory;
 use Legion\Routing\Dispatcher;
 use PHPUnit\Framework\TestCase;
 use Legion\Http\ResponseFactory;
 
-
-class FakeController{}
 
 class DispatcherTest extends TestCase
 {
@@ -59,6 +59,7 @@ class DispatcherTest extends TestCase
 
     }
 
-
-
 }
+
+
+class FakeController{}
