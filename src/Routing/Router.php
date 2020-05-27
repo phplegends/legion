@@ -63,28 +63,4 @@ class Router extends BaseRouter
         return $this->middlewares;
     }
 
-
-     /**
-     *
-     * @param string $class
-     * @param string|null $prefix
-     * */
-
-    public function resource($class, $prefix = null)
-    {
-
-        if ($ns = $this->getNamespace())
-		{
-			$class  = rtrim($ns, '\\') . '\\' . $class;
-		}
-
-        $inspector = new RoutableInspector($class);
-
-        $router = $inspector->generateResourceRoutes($this, $prefix);
-
-        $this->mergeRouter($router);
-
-        return $this;
-
-    }
 }
